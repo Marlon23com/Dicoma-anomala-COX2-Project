@@ -1,0 +1,18 @@
+Title: Vitex negundo Linn.: A decade of advances in phytochemistry, pharmacological activities, and biotechnological interventions (2015-2025) - A comprehensive review.
+
+Authors: Phate, Pratik Vinayak; Patil, Anita Surendra
+
+Year: 2026
+
+PMID: 41650524
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Humans; Isovitexin; Pharmacology; Phytochemicals; Phytochemistry; Phytotherapy; Plant Extracts; Plants, Medicinal; Standardization; Vitex; Vitex negundo; Vitexin
+
+Publication Types: Journal Article, Review, Systematic Review
+
+Abstract:
+Vitex negundo Linn. is an important medicinal plant widely used in traditional medicine, particularly for inflammatory and pain-related conditions. Recent advances in phytochemical characterization, mechanistic pharmacology, and biotechnological interventions have strengthened its potential as a phytopharmaceutical candidate; however, translational gaps remain.
+This review aims to critically summarize and evaluate research published between 2015 and 2025 on the phytochemistry, pharmacological activities, analytical standardization, and biotechnological advancements of V. negundo, with emphasis on mechanistic relevance and evidence-based application.
+A systematic literature survey was conducted using PubMed, Scopus, Web of Science, and Google Scholar. Peer-reviewed studies published between 2015 and 2025 were screened using predefined inclusion criteria, focusing on phytochemical profiling, pharmacological evaluation, analytical characterization, and metabolite enhancement strategies.
+>25 phytochemicals, including vitexin, isovitexin, luteolin derivatives, iridoids, lignans, and phenolic acids, were identified using HPLC, LC-MS/MS, and NMR techniques. Pharmacological studies demonstrated anti-inflammatory, antioxidant, antidiabetic, hepatoprotective, nephroprotective, neuroprotective, antimicrobial, and antiviral activities. These effects were mediated through key molecular pathways such as COX-2, NF-κB, MAPK, AMPK, and Nrf2/ARE. Advances in plant tissue culture and metabolite-enhancement approaches have contributed to improved production of bioactive constituents. However, inconsistencies in experimental design, lack of biomarker-based standardization, and limited pharmacokinetic data were evident.
+Recent scientific evidence supports the pharmacological relevance of V. negundo and validates several of its traditional uses. Nevertheless, future research should prioritize biomarker-guided standardization, pharmacokinetic and toxicological evaluation, and clinically relevant study designs to enable the rational development of standardized V. negundo-based phytomedicines.

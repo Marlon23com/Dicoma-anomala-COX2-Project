@@ -1,0 +1,14 @@
+Title: Chemotoxic and phototoxic effects of liposomal co-delivery of green synthesized silver nanoparticles and ZnPcS
+
+Authors: Chota, Alexander; Abrahamse, Heidi; George, Blassan P
+
+Year: 2025
+
+PMID: 40090284
+
+Keywords/MeSH: Apoptosis; Breast Neoplasms; Breast cancer; Cell Survival; Dicoma anomala; Drug Liberation; Female; Green Chemistry Technology; Humans; Indoles; Isoindoles; Liposomes; MCF-7 Cells; Metal Nanoparticles; Nanoparticles; Organometallic Compounds; Photochemotherapy; Photodynamic therapy; Photosensitizing Agents; Plant Extracts; Reactive Oxygen Species; Silver; Zinc Compounds; Zinc phthalocyanine tetrasulfonate; liposomes
+
+Publication Types: Journal Article
+
+Abstract:
+Breast cancer remains a significant challenge in oncology, despite notable advances in treatment methods. Traditional therapies such as surgery, chemotherapy, radiation, and hormonal treatments have long been used to manage breast cancer. However, often patients experience treatment failure, resulting in disease recurrence and progression. Therefore, this study explores the therapeutic potential of green-synthesized silver nanoparticles (AgNPs), using the root methanol (MeOH) extract of the African medicinal plant Dicoma anomala (D. anomala) as a reducing agent, to combat breast cancer. AgNPs were synthesized using a bottom-up approach and later modified with liposomes (Lip) loaded with the photosensitizer zinc phthalocyanine tetrasulfonate (Lip@ZnPcS

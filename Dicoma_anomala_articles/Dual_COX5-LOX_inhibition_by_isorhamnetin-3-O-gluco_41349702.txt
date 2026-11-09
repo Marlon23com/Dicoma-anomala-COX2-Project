@@ -1,0 +1,18 @@
+Title: Dual COX/5-LOX inhibition by isorhamnetin-3-O-glucoside from Anthyllis cytisoides: An integrated chemical-enzymatic-computational study.
+
+Authors: Bouammali, Haytham; Khibech, Oussama; Fraj, Elmehdi; Elbouzidi, Amine; Bekkouch, Ayoub; Bourhou, Chaymae; Zughaier, Susu M; Merzouki, Mohammed; Hassiba, Maryam; Jaouani, Hanane; Bouammali, Boufelja; Challioui, Allal; Touzani, Rachid
+
+Year: 2026
+
+PMID: 41349702
+
+Keywords/MeSH: Anthyllis cytisoides L.; Arachidonate 5-Lipoxygenase; COX/5-LOX inhibition; Cyclooxygenase 1; Cyclooxygenase 2; Cyclooxygenase Inhibitors; Glucosides; Humans; I3OG; LC-HRMS; Lipoxygenase Inhibitors; Molecular Docking Simulation; Molecular docking & MD; Plant Components, Aerial; Plant Extracts; Quercetin
+
+Publication Types: Journal Article
+
+Abstract:
+Anthyllis cytisoides L. is a forage shrub native to the western Mediterranean basin, traditionally used in folk medicine to treat respiratory and gastrointestinal inflammation. However, its polar phytochemical profile and the underlying enzyme-level anti-inflammatory mechanisms involving COX-1/COX-2 and 5-LOX remain weakly documented.
+To integrate chemical, enzymatic, and computational evidence that links the constituents of A. cytisoides L to COX-1, COX-2, and 5-LOX targets, thereby contextualizing the species' ethnopharmacological indications.
+The aerial parts were subjected to polarity-guided fractionation followed by LC-HRMS profiling. From the methanolic fraction, a flavonol glycoside was isolated and structurally elucidated as isorhamnetin-3-O-glucoside (I3OG) using ESI-MS, IR spectroscopy, and 1D/2D NMR analyses. Enzymatic inhibition of COX-1, COX-2, and 5-LOX was assessed (COX via PGE
+I3OG was successfully identified and purified from A. cytisoides. It inhibited COX-1, COX-2, and 5-LOX with IC
+I3OG emerges as a promising dual COX/5-LOX candidate from A. cytisoides, providing a coherent link between detailed phytochemical analysis, enzymatic inhibition, and atomistic binding mechanisms. Although selectivity and safety considerations fall outside the scope of this enzyme-focused study, the findings highlight A. cytisoides as a valuable source of multitarget anti-inflammatory scaffolds and support SAR-driven optimization and formulation strategies aimed at enhancing bioactivity.

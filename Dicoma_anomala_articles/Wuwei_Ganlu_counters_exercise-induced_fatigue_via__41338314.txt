@@ -1,0 +1,18 @@
+Title: Wuwei Ganlu counters exercise-induced fatigue via mitochondrial reinforcement and redox-inflammatory modulation.
+
+Authors: Tang, Can; Zhang, Shuhao; Nima, Dingzeng; Nima, Laicuo; Pingcuo, Badan; Man, Shuli
+
+Year: 2026
+
+PMID: 41338314
+
+Keywords/MeSH: Animals; Animals, Outbred Strains; Anti-Inflammatory Agents; Drugs, Chinese Herbal; Exercise-induced fatigue; Fatigue; Inflammation; Inflammatory signaling; Male; Mice; Mitochondria; Molecular Docking Simulation; Muscle, Skeletal; Oxidation-Reduction; Oxidative stress; Physical Conditioning, Animal; Ubiquinone biosynthesis; Wuwei ganlu
+
+Publication Types: Journal Article
+
+Abstract:
+Wuwei Ganlu is a Tibetan medicated-bath formula, and traditionally applied for limb stiffness, "yellow-water" effusion, and joint swelling. However, its efficacy against exercise-induced fatigue and mechanisms remain unclear.
+This study evaluated the anti-fatigue activity of WGL and explored mitochondrial and redox-inflammatory mechanisms.
+UPLC-Q-Orbitrap-MS/MS was used to analyze the constituents of WGL. Network pharmacology prioritized mitochondrial and inflammatory hubs. Docking tested ligand-target feasibility. Kunming mice underwent 14 days of weight-loaded forced swim with daily warm WGL baths.
+UPLC-Q-Orbitrap-MS/MS profiled WGL and tentatively identified 33 constituents spanning flavonoids (e.g., quercetin, luteolin, kaempferol, myricetin, afzelin), phenolic acids (e.g., 4-hydroxybenzoic acid and prenylated derivatives), and terpenoids. Network pharmacology analysis that integrated compound-target links with fatigue related genes prioritized hubs involved in mitochondrial energetics, inflammatory control (e.g., AKT1, PIK3CA, TGFB1) and the PI3K-AKT, oxidative phosphorylation pathways. Docking indicated that several flavonoids, such as quercetin and luteolin, showed adopted plausible high affinity poses with these targets. Subsequently, a 14-day weight-loaded forced-swim paradigm showed that WGL (2 g/L) increased endurance, lowered serum levels of blood urea nitrogen, creatine kinase and lactate dehydrogenase, reduced content of muscle malondialdehyde, and the mRNA expression of interleukin-1β and tumor necrosis factor-α, and improved gastrocnemius histopathology without affecting body weight. Untargeted serum metabolomics separated model from normal groups, and revealed a treatment-driven shift toward normal. Forced swimming suppressed ubiquinone-biosynthetic head-group intermediates, such as 4-Hydroxy-3-polyprenylbenzoate, 3,4-Dihydroxy-5-polyprenylbenzoate, and 2-polyprenyl-6-methoxyphenol, while WGL restored these signatures and elevated muscular mRNA expression of Coq7.
+WGL counters exercise-induced fatigue by reinforcing CoQ-linked mitochondrial function and rebalancing redox-inflammatory signaling, which provides mechanistic support for its traditional external use and a rationale for further development.

@@ -1,0 +1,15 @@
+Title: Comparative metabolomic profiling and chemometric correlation of Salvia rosmarinus Spenn. and Origanum vulgare L. with antibacterial, antioxidant and anti-inflammatory activities.
+
+Authors: Zakarya, Alaa Y; Rasheed, Dalia M; Emad, Ayat M; Farag, Mohamed A; Goda, Zeinab M; Riad, Omnia Karem M; Tohamy, Sally T K; Elbanna, Ahmed H
+
+Year: 2025
+
+PMID: 41339452
+
+Keywords/MeSH: Anti-inflammatory; Antibacterial; Antioxidant; Lamiaceae (mint family); Metabolite profiling; Partial least squares analysis (PLS)
+
+Publication Types: Journal Article
+
+Abstract:
+The Lamiaceae plants are recognized in folk medicine for their antibacterial and anti-inflammatory properties. This study reports the first MS-based metabolomics analysis, integrating with chemometrics to explore metabolome heterogeneity in 
+The online version contains supplementary material available at 10.1038/s41598-025-30607-z.

@@ -1,0 +1,18 @@
+Title: Immune Preconditioning with Oral Quercetin Supplement and COVID-19 mRNA Vaccine Responses: A Randomized, Double-Blind, Placebo-Controlled Trial.
+
+Authors: Takahama, Shokichi; Nogimori, Takuto; Tanaka, Aiko; Nishiyama, Ayae; Iwami, Shingo; Abe, Keiichi; Nishihira, Jun; Yamamoto, Takuya
+
+Year: 2026
+
+PMID: 41759822
+
+Keywords/MeSH: Administration, Oral; Adult; Aged; Antibodies, Viral; COVID-19; COVID-19 Vaccines; Dietary Supplements; Double-Blind Method; Female; Humans; Male; Middle Aged; Quercetin; SARS-CoV-2; aging; lifestyle-related diseases; quercetin; vaccination
+
+Publication Types: Journal Article, Randomized Controlled Trial
+
+Abstract:
+Several risk factors for severe outcomes of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and vaccine responsiveness are related to aging and lifestyle-related conditions, like obesity-associated diabetes. Although vaccination reduces the risk of coronavirus disease 2019 symptoms, vaccine responsiveness in older or metabolically impaired individuals remains variable.
+This study examined the effects of quercetin glycoside (QG), a bioactive compound with anti-inflammatory and antiaging properties, taken before mRNA vaccination in older or metabolically at-risk individuals, focusing primarily on immune responses and secondarily on vaccine-related reactions.
+In this randomized, double-blind, placebo-controlled, parallel-group study, participants consumed QG or a placebo daily for 4 wk before a mRNA SARS-CoV-2 booster. Each QG capsule contained 280 mg ± 5% of QG complex; 2 capsules were taken per day. Immune profiles were assessed for 3 mo post vaccination. Linear mixed-effects models evaluated changes in antibody titers and antigen-specific T-cell activation, including group, time, and their interaction as fixed effects, with age, sex, and BMI as covariates.
+A total of 50 participants (QG = 24; placebo = 26) were analyzed. Vaccine-induced antibody responses rose markedly after the booster in both groups, with similar kinetics and magnitudes. No significant differences were found between groups in neutralizing antibody titers or spike-specific immunoglobin G. Likewise, spike-specific cluster of differentiation 4 (CD4
+Oral QG supplementation did not significantly alter vaccine immunogenicity or reactogenicity. A minor numerical trend toward lower temperature responses was observed, but it was not significant. These findings confirm that QG supplementation was well tolerated and highlight the exploratory nature of this trial. This trial was registered at UMIN as UMIN000046945.

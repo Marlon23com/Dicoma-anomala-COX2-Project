@@ -1,0 +1,14 @@
+Title: Berberine-taxifolin co-administration attenuates inflammatory response and intestinal barrier injury via nf-κB/NLRP3 suppression in colitis.
+
+Authors: Miao, Ganggang; Zhang, De; Sui, Zhenghui; Leng, Jianfei; Deng, Yanxiang; Gu, Xingwei; Cao, Hongyong
+
+Year: 2025
+
+PMID: 41646959
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Apoptosis; Berberine; Colitis; Dextran Sulfate; Disease Models, Animal; Intestinal Mucosa; Male; Mice; Mice, Inbred C57BL; Molecular Docking Simulation; NF-kappa B; NLR Family, Pyrin Domain-Containing 3 Protein; Quercetin; Signal Transduction; berberine; inflammatory bowel disease; inflammatory response; intestinal barrier damage; taxifolin
+
+Publication Types: Journal Article
+
+Abstract:
+Inflammatory bowel disease (IBD) is pathologically characterized by dysregulated inflammation and compromised intestinal barrier integrity. While multi-component herbal formulations hold promise for IBD management, the combined potential of specific phytochemical combinations remains underexplored. This study investigates the cooperative therapeutic effects of Berberine and Taxifolin, two anti-inflammatory phytochemicals, in a murine colitis model. Multi-omics network pharmacology initially identified their shared anti-inflammatory and anti-apoptotic targets in IBD pathogenesis. Experimental validation demonstrated that combined treatment with berberine and taxifolin produced stronger protective effects against Dextran Sulfate Sodium (DSS)-induced colitis than either compound alone. Specifically, the combination significantly alleviated body weight loss and colon shortening, reduced macrophage infiltration and the expression of pro-inflammatory cytokines (IL-1β and TNF-α), and preserved intestinal barrier integrity by restoring tight junction proteins (occludin and ZO-1). In addition, the combined treatment attenuated caspase-3-mediated epithelial apoptosis. Molecular docking analysis suggested that berberine and taxifolin may interact with multiple inflammation-related targets, including NF-κB, NLRP3, PPARγ, and STAT3, providing a potential mechanistic basis for the observed effects. These findings establish Berberine-Taxifolin co-administration as a novel multi-target therapeutic strategy that concurrently addresses inflammatory dysregulation, barrier repair, and apoptosis control in IBD, and may provide a phytochemical blueprint for complex inflammatory disorders.

@@ -1,0 +1,14 @@
+Title: Research Progress of Natural Compounds in the Treatment of Diabetes and Its Complications.
+
+Authors: Wang, Ying-Rui; Liu, Zheng
+
+Year: 2026
+
+PMID: 41984462
+
+Keywords/MeSH: clinical translation; complications; diabetes mellitus; mechanisms of action; natural compounds
+
+Publication Types: Journal Article
+
+Abstract:
+Diabetes mellitus (DM) is a global metabolic disorder characterized by disturbed glucose and lipid metabolism and persistent hyperglycemia. Commonly used clinical hypoglycemic agents are associated with side effects such as gastrointestinal discomfort, hypoglycemia, and edema, yet long-term glycemic control remains suboptimal. Natural compounds have become promising candidates for the intervention of diabetes and its complications due to their high safety profile, multi-target synergistic hypoglycemic effects, and protective actions on target organs. This article systematically reviews the antidiabetic effects of five major natural compounds: resveratrol, curcumin, berberine, quercetin, and ginsenosides. Their core mechanisms mainly include improving insulin resistance, protecting pancreatic β-cells, exerting antioxidant and anti-inflammatory effects, regulating mitochondrial function, and repairing the intestinal barrier. These compounds can also target and intervene in various diabetic complications, including diabetic nephropathy, cardiomyopathy, retinopathy, peripheral neuropathy, and erectile dysfunction. This review provides a theoretical basis and direction for the development of natural compounds as adjuvant therapeutic agents for diabetes.

@@ -1,0 +1,17 @@
+Title: De novo transcriptome and tissue-specific gene expression analysis in three types of barley following exploring the mechanism of quercetin content in purple barley (Hordeum vulgare).
+
+Authors: Hasan, Md Mahmudul; Mia, Md Sohel; Yang, Jiazhen; Yang, Tao; Zeng, Yawen
+
+Year: 2026
+
+PMID: 41735885
+
+Keywords/MeSH: DEGs; Functional annotations; Purple barley (H. vulgare); QRT-PCR; Quercetin
+
+Publication Types: Journal Article
+
+Abstract:
+Barley (
+In this study, comparative transcriptome analysis was performed on yellow, black, and purple barley grains at the grain-filling stage to elucidate the transcriptional regulation of quercetin biosynthesis. RNA sequencing followed by de novo assembly resulted in the structural optimization of 6,393 genes, of which 4,986 were functionally annotated. A total of 12 alternative splicing event types and 561,743 putative single-nucleotide polymorphisms were identified. Differential expression analysis revealed 4,540 differentially expressed genes, with purple barley exhibiting the highest number of upregulated genes. Many of these genes were enriched in biological process, cellular component, and molecular function categories and formed dense protein–protein interaction networks. KEGG pathway analysis showed significant enrichment of phenylpropanoid and flavonoid biosynthesis pathways in purple barley. Furthermore, significantly higher expression of key quercetin biosynthesis genes, 
+This study provides the first transcriptome-level comparison of quercetin-associated gene regulation among three tyeps of barley. The results reveal a coordinated transcriptional framework underlying quercetin biosynthesis in purple barley and offer valuable genetic resources for future functional studies and breeding strategies aimed at enhancing quercetin content in purple barley.
+The online version contains supplementary material available at 10.1186/s12870-026-08414-z.

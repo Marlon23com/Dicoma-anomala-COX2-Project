@@ -1,0 +1,16 @@
+Title: Integrated bioinformatics analysis reveals cross-talking hub genes and therapeutic agents between sepsis and acute myocardial infarction.
+
+Authors: Zhou, Lihuimei; Chen, Wenhao; Li, Jiafu; Chen, Muhu
+
+Year: 2026
+
+PMID: 41863100
+
+Keywords/MeSH: Bioinformatics analysis; Computational Biology; Gene Expression Profiling; Gene Ontology; Gene Regulatory Networks; Humans; Janus Kinase 2; Molecular Docking Simulation; Myeloid Differentiation Factor 88; Myocardial Infarction; Protein Interaction Maps; ROC Curve; Sepsis; Tissue Inhibitor of Metalloproteinase-1; acute myocardial infarction; hub genes; immune cell infiltration; molecular docking; sepsis
+
+Publication Types: Journal Article
+
+Abstract:
+Sepsis and acute myocardial infarction (AMI) are two significant diseases that may share overlapping etiological mechanisms. This study aims to systematically identify core genes common to both conditions and to explore their potential as therapeutic targets and drug candidates through an integrative analysis of clinical data and bioinformatics.
+The AMI dataset was obtained from the GEO database, and RNA sequencing data were collected from blood samples of patients with sepsis at our hospital. Common genes were identified using differential expression gene analysis (DEG) and weighted gene co-expression network analysis (WGCNA). Functional enrichment analyses, including Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis, were performed. A protein-protein interaction (PPI) network was constructed, and hub genes were identified using the MCC/Degree algorithm. Diagnostic value was assessed 
+A total of 417 genes were identified between sepsis and AMI, with enrichment analysis revealing significant involvement in inflammatory responses. Three hub genes-

@@ -1,0 +1,14 @@
+Title: Plant-Derived Secondary Metabolites Modulating Inflammation-Driven Pathways in Hepatocellular Carcinoma: Preclinical Insights.
+
+Authors: Mendoza-Calderón, Sergio Arael; Cruz Luis, Holanda Isabel; Pérez-Campos Mayoral, Laura; Vásquez-Martínez, Itzel Patricia; Pérez-Campos, Eduardo; Bazán Salinas, Irma Leticia; Ruiz-Rosado, Juan de Dios; Nájera-Segura, Nahui Samanta; Jarquín González, Efrén Emmanuel; Aragón Ayala, Jeanet Elizabeth; Torres Flores, Christopher; Rodríguez, Serafina Pérez; Hernández-Huerta, María Teresa; Cabrera-Fuentes, Hector A
+
+Year: 2026
+
+PMID: 41751435
+
+Keywords/MeSH: anticancer therapy; hepatocellular carcinoma; molecular signaling pathways; plant-derived compounds; secondary metabolites
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality worldwide, primarily driven by chronic inflammation from viral hepatitis, metabolic dysfunction, alcohol-induced liver disease, and cirrhosis. Conventional therapies often fail in advanced stages, highlighting the need for mechanism-based, precision-guided interventions. Plant-derived secondary metabolites represent a promising class of bioactive compounds with structural diversity, multitarget activity, anti-inflammatory effects, and favorable toxicity profiles. This review follows a semi-systematic narrative that synthesizes preclinical and experimental evidence on the anti-inflammatory and anticancer properties of key phytochemicals, including epigallocatechin-3-gallate, galangin, resveratrol, quercetin, curcumin, berberine, genistein, and thymoquinone. These compounds consistently modulate critical inflammation-driven signaling pathways, PI3K/AKT/mTOR, NF-κB, JAK/STAT, Wnt/β-catenin, and MAPK, resulting in apoptosis induction, cell cycle arrest, inhibition of angiogenesis, and reduced invasion and metastasis in multiple HCC models. Despite strong preclinical evidence, clinical translation remains limited by variable bioavailability, incomplete safety data, and insufficient human studies. A staged development strategy is recommended: standardized formulations, Good Laboratory Practice-compliant pharmacokinetic/toxicology studies, validation in patient-derived models, and early-phase, biomarker-guided clinical trials with combination therapy arms. Addressing regulatory, manufacturing, and quality control considerations will be essential for advancing these compounds as adjuvant or complementary agents in precision HCC therapy.

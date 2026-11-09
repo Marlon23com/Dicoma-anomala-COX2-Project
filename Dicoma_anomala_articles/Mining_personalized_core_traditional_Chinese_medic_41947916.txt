@@ -1,0 +1,17 @@
+Title: Mining personalized core traditional Chinese medicine prescriptions for rheumatoid arthritis and elucidating their mechanisms via frequent closed Itemset compression and multilevel network pharmacology.
+
+Authors: Chen, Xu; Yu, Jinlong; Dong, Xin; Chen, Zhangfan; Tian, Jiangshan; Zhao, Min; Jiang, Miao; Guo, Hongtao; Zhou, Xuezhong; Fa, Lifeng; Li, Yuqiu; Zhang, Lei
+
+Year: 2026
+
+PMID: 41947916
+
+Keywords/MeSH: C-reactive protein; data mining; molecular docking; networkpharmacology; rheumatoid arthritis; traditional Chinese medicine
+
+Publication Types: Journal Article
+
+Abstract:
+Rheumatoid arthritis (RA) is a complex immune-mediated inflammatory disease involving multiple dysregulated signaling pathways and marked inter-individual heterogeneity in treatment response. In real-world clinical practice in China, traditional Chinese medicine (TCM) is widely used for RA management in the form of multi-herbal prescriptions; however, systematic approaches that link heterogeneous TCM prescription patterns to objective clinical signals and underlying molecular mechanisms remain limited.
+In this study, large-scale inpatient electronic medical records from two tertiary hospitals were analyzed to identify representative TCM prescriptions used for RA treatment. Frequent closed itemset mining combined with compression strategies was applied to extract stable and non-redundant core prescription patterns across different physicians. Retrospective clinical validation was conducted using longitudinal changes in C-reactive protein (CRP) as an objective biomarker of inflammatory activity. Systems pharmacology approaches-including network pharmacology, network topology-based proximity analysis, and molecular docking-were integrated to characterize shared and prescription-specific molecular targets, signaling pathways, and compound-target interaction feasibility.
+Five representative core TCM prescriptions were identified. Among 614 eligible patients receiving these prescriptions, all groups exhibited significant post-treatment reductions in CRP levels (p < 0.05), indicating consistent anti-inflammatory signals in real-world settings. Network pharmacology analysis revealed substantial overlap between prescription targets and RA-associated genes (65-115 targets per prescription), with convergent enrichment in key inflammatory pathways, including Toll-like receptor, IL-17, and TNF signaling pathway. Network proximity metrics demonstrated close associations between prescription targets and the RA disease module. Molecular docking further supported the structural plausibility of direct interactions between representative active compounds-such as quercetin and berberine-and core RA-related targets, including TNF-α and PTGS2.
+This integrative analysis demonstrates that heterogeneous TCM prescriptions used in RA converge on shared inflammatory regulatory networks while retaining prescription-specific mechanistic features. By linking real-world clinical evidence with systems-level and structural analyses, this study provides a reproducible framework for mechanistic interpretation of TCM-based therapeutic heterogeneity and generates testable hypotheses for future prospective and stratified RA studies incorporating standardized clinical outcomes.

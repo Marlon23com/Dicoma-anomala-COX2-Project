@@ -1,0 +1,12 @@
+name: dicoma_anomala_cox2
+dependencies:
+  - python=3.9
+  - rdkit
+  - pandas
+  - requests
+  - biopython
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+    - chemdataextractor

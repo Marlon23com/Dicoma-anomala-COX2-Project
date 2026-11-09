@@ -1,0 +1,18 @@
+Title: Luteolin ameliorates steroid-induced osteonecrosis of the femoral head via a gut microbiota-L-Carnitine-IFIH1 axis.
+
+Authors: Li, Tong; Li, Yifei; Gao, Jiaxiang; Ma, Ruichen; Peng, Yue; Zhang, Qidong; Chen, Yingzhi; Wang, Weiguo
+
+Year: 2026
+
+PMID: 41652636
+
+Keywords/MeSH: Gut microbiota; IFIH1; L-Carnitine; Luteolin (Lut); Steroid-induced osteonecrosis of the femoral head (SONFH)
+
+Publication Types: Journal Article
+
+Abstract:
+Steroid-induced osteonecrosis of the femoral head (SONFH) lacks effective early-stage interventions, and its systemic drivers remain incompletely defined. Luteolin (Lut) is reported to be protective, but the in vivo mechanism is unclear. We investigated whether Lut acts through a gut microbiota–metabolite–innate immunity axis in SONFH.
+Male Sprague–Dawley rats underwent SONFH induction using lipopolysaccharide plus methylprednisolone and received oral Lut or L-Carnitine; gut microbiota dependence was examined using a four-antibiotic depletion regimen. Femoral heads were evaluated by histology and micro-computed tomography. Mechanisms were interrogated by integrated 16S rRNA profiling, untargeted serum Liquid Chromatography–Mass Spectrometry metabolomics, and femoral-head transcriptomics. Dexamethasone (Dex)-injuried ROS17/2.8 osteoblasts and HMEC-1 endothelial cells were used for functional validation, and IFIH1 was silenced by shRNA to test pathway necessity.
+Lut preserved trabecular microarchitecture and reduced empty osteocyte lacunae in vivo, yet minimally rescued Dex-injured osteoblasts and endothelial cells, indicating an indirect mechanism mediated by gut microbiota-derived metabolic changes. Microbiota depletion abolished Lut’s in vivo benefit, establishing microbiota dependence. Metabolomics identified an increase in circulating L-Carnitine that correlated with four bacterial genera. Exogenous L-Carnitine restored cell proliferation, reduced apoptosis, and improved endothelial tube formation, and in vivo improved trabecular indices while lowering inflammatory cytokines (IL-1β, IL-6, TNF-α). Integrated multi-omics highlighted an interferon-stimulated gene module (OAS1A, HERC6, IFIH1, IFI44), with IFIH1 most strongly associated with disease severity. L-Carnitine attenuated Dex-induced IFIH1 expression, and IFIH1 knockdown mimicked L-Carnitine and eliminated its additional anti-inflammatory effect.
+Lut alleviates SONFH via gut microbiota-driven elevation of L-Carnitine, which constrains IFIH1 expression and inflammation to preserve femoral-head trabecular microarchitecture. Targeting the microbiota–L-Carnitine–IFIH1 axis may enable mechanism-based early intervention strategies for SONFH.
+The online version contains supplementary material available at 10.1186/s12967-026-07793-z.

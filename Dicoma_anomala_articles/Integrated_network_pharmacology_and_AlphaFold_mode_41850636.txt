@@ -1,0 +1,18 @@
+Title: Integrated network pharmacology and AlphaFold modeling reveal ESR1 as a key target of Huanglian Jiedu decoction for ameliorating sepsis-induced coagulopathy.
+
+Authors: Yiming, Shen; Bing, Shao; Yinghao, Pei; Haiyi, Ding; Suzhen, Zhang; Qiuhua, Chen; Linfeng, Dai; Weinan, Wu; Lu, Cao; Xiaowen, Zhou; Yuanyuan, Gu; Xing, Wang; Hua, Jiang
+
+Year: 2026
+
+PMID: 41850636
+
+Keywords/MeSH: AlphaFold; Animals; Blood Coagulation Disorders; Disease Models, Animal; Drugs, Chinese Herbal; ESR1; Huanglian Jiedu decoction; Male; Molecular Docking Simulation; Molecular Dynamics Simulation; Network Pharmacology; Rats; Rats, Sprague-Dawley; Sepsis; Sepsis-induced coagulopathy
+
+Publication Types: Journal Article
+
+Abstract:
+Huanglian Jiedu Decoction (HLJDD) was initially documented in the Elbow Reserve Emergency Prescription, an ancient Chinese medical text created in the Eastern Jin Dynasty. This decoction is composed of four herbs: Huanglian (HL, Coptis chinensis Franch.), Zhizi (ZZ, Gardenia jasminoides Ellis), Huangqin (HQ, Scutellaria baicalensis Georgi), and Huangbo (HB, Phellodendron chinense Schneid.). Modern pharmacological research shows that HLJDD exerts multiple therapeutic effects, including antibacterial and anti-inflammatory properties, improvement of coagulation function, and amelioration of cerebral ischemia.
+Sepsis-induced coagulopathy (SIC) is a critical complication associated with sepsis, characterized by disruptive coagulation. This study evaluated the efficacy of HLJDD in alleviating SIC and elucidated its potential mechanisms through network pharmacology, molecular dynamics, and AlphaFold.
+The cecal ligation and puncture (CLP) method was used to establish a septic rat model. HLJDD was administered as an intervention. Mortality rates, vital signs, histopathological testing of the lung and kidney, blood cell counts, and coagulation function were assessed to evaluate the severity of coagulation disorders and inflammatory injury across the groups. Network pharmacology was used to identify candidate targets, and the potential mechanism of HLJDD in alleviating SIC was verified by ELISA, RT-qPCR and Western blot. AlphaFold 3 and molecular dynamics simulations were used to predict the potential regulatory mechanisms of ESR1 by the major compound of HLJDD.
+This study demonstrated that HLJDD improved coagulation dysfunction, reduced inflammatory response and lung and kidney pathological damage in CLP-induced sepsis rats, and significantly improved survival rate. The major compounds of HLJDD were identified by integrated network pharmacology and UPLC-Q-TOF-MS. ESR1, IL-6, and CXCL8 were identified as potential targets for HLJDD in alleviating SIC. In the validation of the predicted results, HLJDD restored reduced ESR1 expression in the lungs and kidneys of sepsis rats and exhibited good regulatory effects on IL-6 and CINC-1 (a functional CXCL8 analog in rats). Furthermore, quercetin was identified as the major compound of HLJDD. Molecular docking and molecular dynamics simulations suggested that quercetin has a good binding affinity for ESR1. Based on AlphaFold 3 structural modeling analysis, quercetin may alleviate SIC by mediating the regulation of ESR1 recognition of estrogen response elements (EREs).
+In summary, HLJDD alleviates SIC by reducing PT, APTT levels and increasing the FIB contents. Our study indicates that the mechanism involves the upregulation of ESR1, which enhances ESR1-ERE binding to suppress inflammation and microthrombosis. This elucidates a specific mode of action for HLJDD, highlighting its potential value in SIC treatment.

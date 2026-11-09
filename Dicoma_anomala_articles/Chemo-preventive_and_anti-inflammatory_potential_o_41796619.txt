@@ -1,0 +1,18 @@
+Title: Chemo-preventive and anti-inflammatory potential of Bilvamoola [Aegle marmelos (L.) Correa] root extract and its bioactive: Chemical standardization, in-vitro and in-silico validation.
+
+Authors: Ramdas; Tiwari, Neerja; Kaushik, Aman Chandra; Rajdev, Bishal; Naidu, V G M; Shanker, Karuna
+
+Year: 2026
+
+PMID: 41796619
+
+Keywords/MeSH: Aegle; Aegle marmelos; Animals; Anti-Inflammatory Agents; Antineoplastic Agents, Phytogenic; Cell Line, Tumor; Cell Proliferation; Female; HCT116 Cells; Humans; Hydroxy-coumarins; In-silico; Mice; Mice, Inbred BALB C; Molecular Docking Simulation; Phytochemicals; Phytopharmaceutical; Plant Extracts; Plant Roots; Rutaceae; Scientific validation; Traditional medicines
+
+Publication Types: Journal Article
+
+Abstract:
+Aegle marmelos (L.) Correa (family Rutaceae) is indigenous to India and is recognized for its use in traditional medicine, with more than 300 codified single- and compound-formulations for the treatment of rheumatism, gastrointestinal, respiratory, neurological, and inflammatory disorders. However, the ethnic population also uses it in the treatment of external tumors and cancer treatment.
+This research aimed to identify key phytochemicals in A. marnmelos root extract (AMR) with antiproliferative and anti-inflammatory potential, and to assess their enrichment and quality control.
+The alcohol extract of AMR (AMR-Ex) was chromatographed to isolate the key phytochemicals. The AMR-Ex compounds and bioactive auraptene-enriched fraction (AMR-AEn) were evaluated for their antiproliferative activities against HCT-116 (human colon cancer) and 4T1 (mouse breast tumor) cell lines, as well as their anti-inflammatory potential using in vitro protein anti-denaturation assays. The bioactive compounds were further evaluated for safety, pharmacokinetic profiles, and molecular interactions with heat shock protein 90 (Hsp90) and cyclin-dependent kinase 2 (CDK2) through ADMET and molecular docking studies. Marker-assisted chemical standardization was performed using HPLC-PDA.
+Isolation has resulted in the 11 compounds of terpenoids, coumarins and alkaloid class viz., (+)-α-bisabolol (1), lupeol (2), auraptene (3), xanthotoxol (4), marmelosin (5), 7-hydroxy coumarins derivatives viz., 7-[3,7-dimethyl-6-oxo-(2E)-2-octenyloxy] coumarin (6), O-methyl tembamide (7), 7-[6-Hydroxy-7-methoxy-3,7-dimethyl-(2E)-2-octenyloxy]-coumarin (8), umbelliferone (9), marmin (11), skimmianine (10) from AMR. Alcohol extract and compounds (1, 3, 6, and 8) have inhibited HCT-116 and 4T1 cells viability with IC
+AMR-extract and its coumarin derivatives, viz., 3-6 and 11, have exhibited moderate antiproliferative and anti-inflammatory activity, providing chemical and pharmacological evidence to support their use in traditional medicine. The study's findings encourage further detailed validation and the elucidation of the mechanisms of action of promising AMR bioactive compounds.

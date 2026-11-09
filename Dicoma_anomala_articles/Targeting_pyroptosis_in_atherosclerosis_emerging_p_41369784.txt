@@ -1,0 +1,18 @@
+Title: Targeting pyroptosis in atherosclerosis: emerging pharmacologic strategies and natural compound-based therapeutics-a narrative review.
+
+Authors: Liu, Qizhi; Shi, Yaning; Qin, Li
+
+Year: 2026
+
+PMID: 41369784
+
+Keywords/MeSH: Animals; Atherosclerosis; Biological Products; Gasdermin D; Humans; Inflammasome; Inflammasomes; Natural compounds; Pharmacologic therapy; Pyroptosis
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Atherosclerosis is the pathological foundation of most cardiovascular diseases and remains the leading cause of mortality worldwide. Increasing evidence shows that pyroptosis, a pro-inflammatory form of programmed cell death mediated by inflammasome activation and gasdermin D (GSDMD)-mediated pore formation, plays a key role in vascular endothelial dysfunction, immune cell activation, and plaque destabilization. Understanding how pharmacological agents modulate pyroptotic signaling is crucial for identifying new therapeutic strategies for atherosclerosis prevention and treatment.
+This narrative review aims to summarize the current evidence on the mechanisms by which pyroptosis contributes to the initiation and progression of atherosclerosis and to explore pharmacological strategies, including natural and synthetic compounds that target pyroptotic pathways to exert anti-atherosclerotic effects.
+A narrative literature review was conducted using PubMed, Web of Science, and Scopus, from database inception to September 2025. The search combined terms related to "pyroptosis," "atherosclerosis," "inflammasome," "gasdermin," "drug," and "natural compound." Studies reporting the mechanisms or pharmacologic modulation of pyroptosis in endothelial cells, macrophages, or vascular smooth muscle cells were included, and data were synthesized according to cell type and mechanism of drug action.
+Pyroptosis contributes to all the stages of atherosclerosis by promoting vascular inflammation, lipid accumulation, and plaque rupture. The NLRP3 inflammasome, caspase-1, and GSDMD are major pharmacological targets. Small-molecule inhibitors, such as MCC950 and VX-765, suppress inflammasome activation and cytokine release, thereby reducing plaque burden. Multiple natural compounds, including salidroside, salvianolic acids, puerarin, oxymatrine, and quercetin, exert protective effects through antioxidative and anti-inflammatory mechanisms that inhibit inflammasome activation and restore endothelial integrity. These findings suggest the feasibility of combining pyroptosis-targeting compounds with established antiatherosclerotic therapies.
+Targeting pyroptosis offers a promising pharmacological approach for mitigating vascular inflammation and stabilizing atherosclerotic plaques. Natural compounds with inflammasome-modulating activities serve as valuable chemical scaffolds for the development of novel therapeutics. Further pharmacokinetic, toxicological, and clinical studies are needed to translate these mechanistic insights into effective treatment strategies for patients with atherosclerotic cardiovascular disease.

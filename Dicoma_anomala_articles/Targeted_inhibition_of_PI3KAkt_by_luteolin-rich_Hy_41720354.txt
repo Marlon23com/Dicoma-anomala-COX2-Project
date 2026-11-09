@@ -1,0 +1,14 @@
+Title: Targeted inhibition of PI3K/Akt by luteolin-rich Hydrilla verticillata in TNF-α and IFN-γ-induced atopic keratinocytes.
+
+Authors: Yu, Hyeonjun; Tonog, Genevieve; Kakooza, Derrick; Jeong, Wonsik; Hong, Seong Su; Kim, Woo Jung; Suh, Hyung-Joo; Lee, Sanghyun; Moon, Sung-Kwon; Kim, Hoon
+
+Year: 2026
+
+PMID: 41720354
+
+Keywords/MeSH: Anti-Inflammatory Agents; Aquatic weed; Atopic dermatitis; Cytokines; Fractionation; HaCaT Cells; Humans; Inflammatory skin disease; Interferon-gamma; Keratinocytes; Luteolin; Molecular Docking Simulation; Molecular Structure; Network pharmacology; Phosphatidylinositol 3-Kinases; Phytochemicals; Plant Extracts; Proto-Oncogene Proteins c-akt; Secondary metabolite; Signal Transduction; Tumor Necrosis Factor-alpha
+
+Publication Types: Journal Article
+
+Abstract:
+Hydrilla verticillata (HV) contains bioactive compounds, yet its anti-inflammatory potential and the most active solvent fraction remain underexplored. This study evaluated the anti-inflammatory effects of the HV ethyl acetate fraction (HV-EtOAc) in TNF-α and IFN-γ-stimulated HaCaT keratinocytes and through in silico analysis. Bioactive components were identified using ultra-performance liquid chromatography-tandem mass spectrometry and quantified by high-performance liquid chromatography. Among the solvent fractions, HV-EtOAc exhibited the strongest inhibitory effects on inflammatory mediators, reducing IL-6 (33-46%), IL-8 (25%), and MCP-1 (36-79%) production. Gene expression analysis revealed downregulation of key chemokines and cytokines, including MCP1, RANTES, TARC, MDC, CTACK, and IL6. HPLC analysis showed HV-EtOAc contained significantly higher luteolin levels (2.44 ± 0.01 mg/g) than the crude ethanolic extract (0.94 ± 0.01 mg/g). Luteolin alone suppressed IL-6 (62.7-88.2%), IL-8 (82.9-94.0%), and MCP-1 (78.3%) production in vitro. Molecular docking indicated strong binding affinity of luteolin to Akt. Western blot analysis confirmed that HV-EtOAc inhibited phosphorylation in the PI3K/Akt, NF-κB (IκBα and p65), and MAPK (ERK, JNK, and p38) signaling pathways. These findings suggest that the luteolin-enriched HV-EtOAc fraction exerts potent anti-inflammatory effects by targeting multiple signaling pathways involved in cytokine production. This study highlights the potential of H. verticillata, particularly its ethyl acetate fraction, as a promising natural source for therapeutic agents against inflammatory skin disorders.

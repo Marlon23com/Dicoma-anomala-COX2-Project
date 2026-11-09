@@ -1,0 +1,14 @@
+Title: Quercetin-loaded nanoemulsions: A promising strategy for alleviating cerebral ischemic damage in an animal model of stroke.
+
+Authors: Vahidi, Samira; Parseghian, Liana; Alvand, Zinab Moradi; Bigdeli, Mohammadreza; Khaksar, Sepideh; Rafati, Hasan
+
+Year: 2026
+
+PMID: 41786233
+
+Keywords/MeSH: Infraction volume; Ischemic stroke; Nanoemulsion; Quercetin; Satureja khuzistanica
+
+Publication Types: Journal Article
+
+Abstract:
+Flavonoids and nanoemulsions have attracted researchers' attention. In this study, a novel Satureja khuzistanica essential oil loaded with quercetin nanoemulsion (SKEO/Qu NE) was designed, and its effect was investigated in a stroke model. In an in vitro study, SKEO/Qu NE was characterized. SKEO/Qu NE effectiveness as an antioxidant (DPPH and NO radical scavenging, FRAP, and protein denaturation tests) and an anti-inflammatory compound (protein denaturation inhibition technique) was evaluated. In an in vivo study, rats underwent stroke-induced surgery. Rats' sensorimotor abilities, infarction, edema, and blood-brain barrier (BBB) integrity were assayed. SKEO/Qu NE showed stable nanoparticles with a mean particle size of 75.3 nm. In line with the FRAP test, the results of the DPPH and NO tests showed the maximum radical scavenging. The neurologic score, infarction, edema, and BBB breakdown were attenuated in the SKEO/Qu NE-treated group. It can be stated that SKEO/Qu NE alleviated ischemic injuries likely by attenuating oxidative stress and inflammation.

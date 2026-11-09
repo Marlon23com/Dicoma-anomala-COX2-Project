@@ -1,0 +1,14 @@
+Title: Nanotechnology-enabled delivery of luteolin: a comprehensive review on multidisease therapeutic applications.
+
+Authors: Li, Yutong; Chen, Hongxuan; Lu, Yong; Zhong, Shenghui; Wu, Xianfu
+
+Year: 2026
+
+PMID: 41836025
+
+Keywords/MeSH: disease treatment; luteolin; nanocomposites; potential applications; research progress
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Luteolin is a natural flavonoid compound widely found in various plants, known for its antioxidant, anti-inflammatory, cardiovascular protective and anti-tumor activities. However, its low bioavailability due to rapid metabolism and low solubility hinders its clinical application. In recent years, with the development of nanotechnology, luteolin combined with nanomaterials to form nanocomposites has shown promising drug delivery performance and therapeutic effects in numerous diseases. This article reviews the latest research progress on luteolin nanocomposites in disease treatment, exploring their potential applications in cancer, diabetes, cardiovascular diseases, neurological disorders, and other conditions.

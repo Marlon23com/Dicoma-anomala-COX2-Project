@@ -1,0 +1,14 @@
+Title: Comprehensive UHPLC-ESI-Orbitrap-MS Profiling and Bioactivity-Guided Fractionation of Euphorbia greenwayi: Mechanistic Insights Into Anti-Inflammatory and Antiaging Bioactive Metabolites.
+
+Authors: Essa, Ahmed F; Elghonemy, Mai M; Abd Elkarim, Asmaa S; El-Gendy, Zeinab A; Ammar, Naglaa M; Ibrahim, Reham S; Ahmed, Rania F; Farag, Mohamed A; Elshamy, Abdelsamed I
+
+Year: 2026
+
+PMID: 41319965
+
+Keywords/MeSH: Aging; Animals; Anti-Inflammatory Agents; Chromatography, High Pressure Liquid; Cyclooxygenase Inhibitors; Euphorbia; Euphorbia greenwayi; Flavonoids; Humans; OPLS‐DA; Plant Extracts; Spectrometry, Mass, Electrospray Ionization; metabolites profile; phenolic COX enzymes; xanthurenic acid
+
+Publication Types: Journal Article
+
+Abstract:
+The rise of inflammation- and age-related diseases reveals a need for safer therapies, with medicinal plants offering promising bioactive compounds for treatment. This study used chromatographic and NMR tools along with UHPLC-ESI-LIT-Orbitrap-MS to analyze the phytochemical profile of Euphorbia greenwayi's main fractions (EG1:EG5), which showed promising dose-dependent inhibition of COX-1, COX-2, and LOX enzymes through multivariate data analysis. A total of 125 metabolites were identified via UHPLC-ESI-LIT-Orbitrap-MS, including nine isolated and NMR-structurally confirmed compounds, representing diverse chemical classes including phenolic acids and flavonoid glycosides as key components. Furthermore, this study utilized multivariate statistical methods, including Hierarchical Clustering Analysis (HCA) and Orthogonal Projection to Latent Structures Discriminant Analysis (OPLS-DA), to classify solvent fractions based on their chemical composition. The results demonstrated significant dose-dependent inhibitory effects of cyclooxygenase COX-1, COX-2, and lipoxygenase (LOX) enzymes. Notably, Fraction EG5 exhibited potent antiaging effects, as demonstrated by its inhibitory activity on collagenase and elastase enzymes. Further investigation revealed bioactive metabolites, such as xanthurenic acid, tricin, and quercetin, contributing to the anti-inflammatory and antiaging properties. These findings provide valuable insights into the therapeutic potential of E. greenwayi, particularly for anti-inflammatory and antiaging applications, and lay a foundation for future pharmacological studies on its bioactive compounds.

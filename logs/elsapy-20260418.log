@@ -1,0 +1,14 @@
+2026-04-18 12:39:34,361 - elsapy.elsclient - INFO - Module loaded.
+2026-04-18 12:39:34,364 - elsapy.utils - INFO - Module loaded.
+2026-04-18 12:39:34,365 - elsapy.elssearch - INFO - Module loaded.
+2026-04-18 12:40:42,561 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE%28test%29
+2026-04-18 12:40:46,091 - elsapy.utils - INFO - Converting prism:coverDate
+2026-04-18 12:40:47,080 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22Dicoma+anomala%22%29+AND+PUBYEAR+%3E+1990+AND+LANGUAGE%28english%29+AND+%28TITLE-ABS-KEY%28phytochemical+OR+%22chemical+composition%22%29+OR+TITLE-ABS-KEY%28%22sesquiterpene%22+OR+%22sesquiterpene+lactone%22+OR+%22flavonoid%22+OR+%22phenolic+compound%22+OR+%22anti-inflammatory%22+OR+%22COX-2%22+OR+%22chemical+constituent%22+OR+%22phytochemical%22+OR+%22essential+oil%22%29%29
+2026-04-18 12:40:49,039 - elsapy.utils - INFO - Converting prism:coverDate
+2026-04-18 12:58:02,445 - elsapy.elsclient - INFO - Module loaded.
+2026-04-18 12:58:02,471 - elsapy.utils - INFO - Module loaded.
+2026-04-18 12:58:02,472 - elsapy.elssearch - INFO - Module loaded.
+2026-04-18 13:54:33,350 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE%28test%29
+2026-04-18 13:54:48,028 - elsapy.utils - INFO - Converting prism:coverDate
+2026-04-18 13:54:49,006 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22Dicoma+anomala%22%29+AND+PUBYEAR+%3E+2000+AND+LANGUAGE%28english%29+AND+%28TITLE-ABS-KEY%28phytochemical+OR+%22chemical+composition%22%29+OR+TITLE-ABS-KEY%28%22sesquiterpene%22+OR+%22sesquiterpene+lactone%22+OR+%22flavonoid%22+OR+%22phenolic+compound%22+OR+%22anti-inflammatory%22+OR+%22COX-2%22+OR+%22chemical+constituent%22+OR+%22phytochemical%22+OR+%22essential+oil%22%29%29
+2026-04-18 13:54:51,296 - elsapy.utils - INFO - Converting prism:coverDate

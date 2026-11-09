@@ -1,0 +1,14 @@
+Title: The evaluation of novel natural products as inhibitors of human glutathione transferase P1-1.
+
+Authors: Mukanganyama, Stanley; Bezabih, Merhatibeb; Robert, Metuno; Ngadjui, Boneventure T; Kapche, Gilbert F W; Ngandeu, Francois; Abegaz, Berhanu
+
+Year: 2011
+
+PMID: 21028940
+
+Keywords/MeSH: Biological Products; Cell Proliferation; Dose-Response Relationship, Drug; Enzyme Activation; Enzyme Inhibitors; Glutathione S-Transferase pi; Humans; Isoenzymes; Kinetics; Molecular Conformation; Plant Extracts; Recombinant Proteins; Stereoisomerism; Structure-Activity Relationship
+
+Publication Types: Journal Article
+
+Abstract:
+Glutathione transferase P1-1 is over expressed in some cancer cells and contributes to detoxification of anticancer drugs, leading to drug-resistant tumors. The inhibition of human recombinant GSTP1-1 by natural plant products was investigated using 10 compounds isolated from plants indigenous to Southern and Central Africa. Monochlorobimane and 1-chloro-2,4-dinitrobenzene were used to determine GST activity. Each test compound was screened at 33 and 100 µM. Isofuranonapthoquinone (1) (from Bulbine frutescens) showed 68% inhibition at 33 µM, and sesquiterpene lactone (2) (from Dicoma anomala) showed 75% inhibition at 33 μM. The IC(50) value of 1 was 6.8 μM. The mode of inhibition was mixed, partial (G site) and noncompetitive (H site) with K(i) values of 8.8 and 0.21 µM, respectively. Sesquiterpene 2 did not inhibit the CDNB reaction. Therefore, isofuranonapthoquinone 1 needs further investigations in vivo because of its potent inhibition of GSTP1-1 in vitro.

@@ -1,0 +1,18 @@
+Title: Analgesic and anti-inflammatory potential of Rhus tripartita leaves: Phytochemical and in vivo evidence.
+
+Authors: Sadki, Hajar; Tahrouch, Saida; Bouhaimi, Abdellah; Zekhnini, Abderrahmane; Lounis, Hakima; Amri, Oukacha
+
+Year: 2026
+
+PMID: 41771385
+
+Keywords/MeSH: Analgesic; Analgesics; Animals; Anti-Inflammatory Agents; Anti-inflammatory; Antioxidant; Antioxidants; Carrageenan; Edema; Female; Flavonoids; LC–HRMS/MS; Male; Mice; Pain; Phenolic compounds; Phenols; Phytochemicals; Plant Extracts; Plant Leaves; Rats; Rats, Wistar; Rhus tripartita; Toxicity; Traditional medicine
+
+Publication Types: Journal Article
+
+Abstract:
+Anacardiaceae species are known for their anti-inflammatory properties. Rhus tripartita, a plant traditionally used in North African medicine, has not been thoroughly studied for its pharmacological effects. While limited reports exist on its anti-inflammatory potential, no previous studies have investigated its analgesic activity, nor its acute toxicity, impact on biochemical liver and kidney markers, or histological effects.
+This study aimed to evaluate the anti-inflammatory, analgesic (for the first time), and antioxidant activities of R. tripartita methanolic leaf extract, in relation to its flavonoid content.
+The extract was obtained by sonication of leaf powder in 80% methanol. Phenolic compounds were analyzed using thin-layer chromatography (TLC). LC-HRMS/MS analysis was performed to characterize and tentatively identify the major secondary metabolites present in the methanolic extract. Total phenolic content was determined using the Folin-Ciocalteu method (μg GAE/mg DW), and total flavonoids using the aluminum chloride method (μg RE/mg DW). Antioxidant activity was evaluated via the DPPH assay. Anti-inflammatory activity was assessed using the carrageenan-induced paw edema model, and analgesic activity using the hot-plate test. Acute oral toxicity was evaluated at a limit dose, followed by biochemical analyses of hepatic (GGT, ALT, AST, total and direct bilirubin, cholesterol) and renal (urea, creatinine) functions, along with histological examination of liver and kidney tissues.
+TLC analysis revealed distinct phenolic profiles, with quercetin, kaempferol, luteolin, and myricetin identified as major flavonoids. LC-HRMS/MS analysis enabled the tentative identification of several bioactive compounds, including Myricetin 3-O-beta-D-galactopyranoside, genkwanol A, myricitrin, myricetin, and 2-hydroxy-6-[(Z)-nonadec-8-enyl]benzoic acid, with some compounds reported for the first time in this species, confirming the richness of the extract in phenolic secondary metabolites. Total phenolic and flavonoid contents were 22.62 mg GAE/g DW and 17.58 mg RE/g DW, respectively. The extract showed high antioxidant activity (DPPH IC
+Biochemical markers of liver and kidney function remained within normal limits, and histological analysis showed preserved tissue architecture. These findings support its potential as a safe, plant-based source of bioactive compounds for therapeutic development. LC-MS/MS characterization further supported these findings by revealing the presence of several bioactive phenolic compounds that may contribute to the observed pharmacological activities.

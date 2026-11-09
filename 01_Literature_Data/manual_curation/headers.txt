@@ -1,0 +1,1 @@
+Compound_Name,Chemical_Class,Subclass,Source_Reference,Plant_Part,Extraction_Method,PubChem_CID,SMILES,InChI_Key,Molecular_Formula,MW_Da,LogP,TPSA,HB_Donors,HB_Acceptors,Rotatable_Bonds,Verified_Status,Verification_Method,Priority_Tier,COX2_Relevance_Notes,ADMET_Flags,Docking_Notes,Additional_References

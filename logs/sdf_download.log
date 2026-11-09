@@ -1,0 +1,37 @@
+2026-04-19 21:32:58,860 - INFO - Found 8 compounds in 01_Literature_Data/manual_curation/endophyte_derived_for_d_anomala.csv.xlsx
+2026-04-19 21:33:11,008 - INFO - Downloaded Hexadecane.sdf for CID 11006
+2026-04-19 21:33:11,016 - INFO - Downloaded Pyrrolo12-apyrazine-14-dione hexahydro-3-2-methylpropyl-.sdf for CID 102892
+2026-04-19 21:33:11,069 - INFO - Downloaded Benzyl benzoate.sdf for CID 2345
+2026-04-19 21:33:11,099 - WARNING - Failed to download CID 71363004: HTTP 404
+2026-04-19 21:33:11,115 - WARNING - Failed to download CID 11636: HTTP 404
+2026-04-19 21:33:11,458 - INFO - Downloaded Indole.sdf for CID 798
+2026-04-19 21:33:11,521 - INFO - Downloaded Triclosan.sdf for CID 5564
+2026-04-19 21:33:11,526 - INFO - Downloaded Succinimide.sdf for CID 11439
+2026-04-19 21:33:11,697 - ERROR - No 'cid' column in 01_Literature_Data/manual_curation/high_confidence_compounds.csv.xlsx
+2026-04-19 21:33:11,738 - INFO - Found 2 compounds in 01_Literature_Data/manual_curation/require_structural_curation.csv.xlsx
+2026-04-19 21:33:12,083 - INFO - Downloaded Germacranolide 1 126\u03b1-olide.sdf for CID 162464
+2026-04-19 21:33:12,101 - INFO - Downloaded Germacranolide 2 126\u03b1-olide.sdf for CID 139087999
+2026-04-20 20:34:22,348 [INFO] (MainThread) --- Starting new SDF download session ---
+2026-04-20 20:34:26,027 [INFO] (MainThread) --- Processing CIDs for output directory: 02_Ligands\raw_sdf\endophyte_derived ---
+2026-04-20 20:34:40,365 [INFO] (Downloader_2) Saved SDF for CID 11006 to 02_Ligands\raw_sdf\endophyte_derived\11006.sdf
+2026-04-20 20:34:40,365 [INFO] (Downloader_3) Saved SDF for CID 102892 to 02_Ligands\raw_sdf\endophyte_derived\102892.sdf
+2026-04-20 20:34:40,365 [INFO] (Downloader_1) Saved SDF for CID 11439 to 02_Ligands\raw_sdf\endophyte_derived\11439.sdf
+2026-04-20 20:34:40,416 [WARNING] (Downloader_0) PubChem download HTTP error for CID 11636 (Status: 404): 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11636/SDF?record_type=3d
+2026-04-20 20:34:40,974 [INFO] (Downloader_3) Saved SDF for CID 2345 to 02_Ligands\raw_sdf\endophyte_derived\2345.sdf
+2026-04-20 20:34:40,976 [INFO] (Downloader_2) Saved SDF for CID 5564 to 02_Ligands\raw_sdf\endophyte_derived\5564.sdf
+2026-04-20 20:34:41,006 [INFO] (Downloader_1) Saved SDF for CID 798 to 02_Ligands\raw_sdf\endophyte_derived\798.sdf
+2026-04-20 20:34:41,046 [WARNING] (Downloader_0) PubChem download HTTP error for CID 71363004 (Status: 404): 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71363004/SDF?record_type=3d
+2026-04-20 20:34:41,049 [INFO] (MainThread) --- Finished processing for 02_Ligands\raw_sdf\endophyte_derived ---
+2026-04-20 20:34:41,050 [INFO] (MainThread) Total unique CIDs attempted: 8
+2026-04-20 20:34:41,050 [INFO] (MainThread) Successfully downloaded: 6
+2026-04-20 20:34:41,051 [INFO] (MainThread) Failed to download: 2
+2026-04-20 20:34:41,053 [INFO] (MainThread) List of failed CIDs saved to: 02_Ligands\raw_sdf\endophyte_derived\failed_downloads.txt
+2026-04-20 20:34:41,166 [ERROR] (MainThread) 'cid' column not found in 01_Literature_Data/manual_curation/high_confidence_compounds.csv.xlsx, skipping.
+2026-04-20 20:34:41,279 [INFO] (MainThread) --- Processing CIDs for output directory: 02_Ligands\raw_sdf\require_structural_curation ---
+2026-04-20 20:34:41,607 [WARNING] (Downloader_0) PubChem download HTTP error for CID 162464.0 (Status: 400): 400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/162464.0/SDF?record_type=3d
+2026-04-20 20:34:41,620 [WARNING] (Downloader_1) PubChem download HTTP error for CID 139087999.0 (Status: 400): 400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139087999.0/SDF?record_type=3d
+2026-04-20 20:34:41,635 [INFO] (MainThread) --- Finished processing for 02_Ligands\raw_sdf\require_structural_curation ---
+2026-04-20 20:34:41,642 [INFO] (MainThread) Total unique CIDs attempted: 2
+2026-04-20 20:34:41,645 [INFO] (MainThread) Successfully downloaded: 0
+2026-04-20 20:34:41,646 [INFO] (MainThread) Failed to download: 2
+2026-04-20 20:34:41,649 [INFO] (MainThread) List of failed CIDs saved to: 02_Ligands\raw_sdf\require_structural_curation\failed_downloads.txt

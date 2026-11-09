@@ -1,0 +1,18 @@
+Title: Anti-Inflammatory Effects of Flavonoids in an LPS-Induced In Vitro Model of Canine Chronic Enteropathy.
+
+Authors: Móritz, Alma Virág; Horváth, Nóra Luca; Márton, Rege Anna; Szilasi, Anna; Jerzsele, Ákos; Psáder, Roland; Farkas, Orsolya
+
+Year: 2026
+
+PMID: 41681430
+
+Keywords/MeSH: canine inflammatory enteropathy; cytokine modulation; flavonoids; in vitro model; lipopolysaccharide; luteolin; oxidative stress; proanthocyanidins; quercetin
+
+Publication Types: Journal Article
+
+Abstract:
+Chronic inflammatory enteropathies (CIEs) in dogs are multifactorial disorders characterized by mucosal immune dysregulation, compromised epithelial barrier function, and increased exposure to microbial components such as lipopolysaccharide (LPS). The resulting oxidative stress and inflammation contribute to local and systemic pathology.
+This study aimed to evaluate the immunomodulatory and antioxidant effects of three naturally occurring flavonoids-quercetin, luteolin, and grape seed extract oligomeric proanthocyanidins (GSOPs)-in LPS-stimulated canine duodenal explants.
+Duodenal tissue samples were cultured in vitro and challenged with LPS derived from 
+All three flavonoids attenuated LPS-induced mucosal inflammation and ROS production to varying degrees. In addition, GSOPs significantly reduced RNS levels under both basal and LPS-stimulated conditions. Quercetin and luteolin demonstrated pronounced downregulation of TNF-α, while both compounds also reduced IL-6 concentrations under non-stimulated conditions. These effects support the hypothesis that flavonoids can mitigate both inflammatory and oxidative responses under conditions relevant to CIE.
+Quercetin, luteolin, and GSOPs show promising in vitro efficacy in modulating key mechanisms implicated in canine CIE. Their multimodal actions highlight their potential as adjunctive nutraceuticals for the management of CIE in dogs. However, further in vivo validation is warranted.

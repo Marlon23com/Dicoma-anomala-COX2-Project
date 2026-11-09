@@ -1,0 +1,17 @@
+Title: Mechanisms of traditional Chinese medicine compound Danxiong granules for the treatment of radiation dermatitis based on network pharmacology, molecular docking and experimental validation.
+
+Authors: Yu, Shuang; Xu, Kejia; Cao, Hui; Liu, Shuainan; Huan, Yi; Wu, Min; Ma, Yuting; Feng, Cunyu; Hu, Xinrui; Du, Ning; Liu, Xinqi; Tian, Aiping
+
+Year: 2025
+
+PMID: 41316260
+
+Keywords/MeSH: Drugs, Chinese Herbal; Humans; Mechanism; Medicine, Chinese Traditional; Molecular Docking Simulation; Molecular docking; Network Pharmacology; Network pharmacology; Protein Interaction Maps; Radiation dermatitis; Radiodermatitis; Signal Transduction; TDX105
+
+Publication Types: Journal Article
+
+Abstract:
+Radiation Dermatitis (RD) is the most common side effect of radiotherapy, severely affecting the implementation of the antitumor treatment plan. The traditional Chinese medicine(TCM) compound Danxiong Granules (TDX105) is an external formulation used clinically for over a decade with notable efficacy, though its pharmacological mechanisms remain unclear, This study delves into the intricate mechanism by which TDX105 confers protection against RD by modulating the inflammation-related pathway, employing a combination of network pharmacology and experimental validation.
+The active components and potential targets of TDX105 were gathered from databases such as TCMSP, PubChem, PharmMapper and Swiss Target Prediction, disease-related target genes were collected by retrieving the Genecards and DisGeNET databases; STRING database was used for protein-protein interaction analysis and mapping; Cytoscape software was applied for core target analysis and network diagram construction; GO functional and KEGG pathway enrichment analyses were performed using the Metascape database.Subsequent validation was accomplished through molecular docking and in vitro cell experiments.
+In the current study, network pharmacology analysis identified 73 active compounds and 973 potential target genes associated with TDX105, along with 1507 disease-related genes, revealing 289 common genes. The top ten active compounds included quercetin, kaempferol, luteolin, sitosterol, perlolyrine, phellochin, baicalein, cavidine, palmatine and fumarine. PPI network analysis identified core target genes including PIK3R1, SRC, and TP53, with molecular docking demonstrating favorable binding interactions between the active components and these hub targets. Enrichment analysis indicated that TDX105 may exert its effects by modulating inflammatory responses, with KEGG pathway analysis uncovering associations with EGFR, MAPK, PI3K-Akt, and NF-κB signaling pathways. In vitro experiments demonstrated that TDX105 significantly reduced levels of inflammation markers NO, IL-6, and TNF-α compared to the control group (P < 0.05), displayed dose-dependent inhibition of NF-κB activity, and markedly inhibited mRNA expression of iNOS, NLRP3, IL-6, TNF-α, and IL-1β (P < 0.05). Western blot analyses confirmed significant downregulation of NLRP3, COX-2, p-NF-κB, and p-ERK protein levels in the treatment group (P < 0.05).
+Overall, our findings suggest that TDX105 may exert anti-inflammatory effects through the inhibition of NF-κB and MAPK signaling pathways, providing a potential therapeutic approach for radiation dermatitis.

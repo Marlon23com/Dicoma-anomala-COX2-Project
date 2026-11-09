@@ -1,0 +1,14 @@
+Title: Phytochemical Composition and Biological Potential of Eruca vesicaria (L.) Cav.: In Vitro, In Vivo, and In Silico Evaluation.
+
+Authors: Brahimi, Mohamed Habib; Dekmouche, Messaouda; Hadef, Derradji; Abid, Asma; Mekhadmi, Nour Elhouda; Benaissa, Youcef; Yousfi, Mohamed
+
+Year: 2026
+
+PMID: 41386654
+
+Keywords/MeSH: Animals; Anti-Bacterial Agents; Anti-Inflammatory Agents; Antioxidants; Biphenyl Compounds; Candida albicans; Carrageenan; Dose-Response Relationship, Drug; Edema; Eruca vesicaria; Escherichia coli; Flavonoids; LC–MS/MS analysis; Male; Mice; Microbial Sensitivity Tests; Molecular Docking Simulation; Phenols; Phytochemicals; Picrates; Plant Extracts; Staphylococcus aureus; antibacterial activity; antioxidant activity; anti‐inflammatory
+
+Publication Types: Journal Article
+
+Abstract:
+Eruca vesicaria, a traditionally used medicinal plant from Algeria, was investigated for its phytochemical composition and biological activities through integrated in vitro, in vivo, and in silico approaches. Sequential solvent extraction produced four fractions-chloroform, ethyl acetate, butanol, and aqueous-that were analyzed for total phenolic and flavonoid contents and subjected to LC-MS/MS profiling. Antioxidant, antimicrobial, and anti-inflammatory activities were assessed using in vitro assays, in vivo models, and molecular docking simulations. LC-MS/MS analysis identified sixteen bioactive compounds, notably quercetin, luteolin, rutin, oleuropein, and sinapic acid. The ethyl acetate extract exhibited the highest phenolic (133.61 ± 1.25 mg GAE/g) and flavonoid (47.77 ± 1.10 mg QE/g) contents, along with potent antioxidant activity (DPPH IC

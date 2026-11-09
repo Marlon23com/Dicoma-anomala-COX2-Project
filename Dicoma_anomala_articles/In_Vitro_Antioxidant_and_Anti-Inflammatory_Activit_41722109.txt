@@ -1,0 +1,14 @@
+Title: In Vitro Antioxidant and Anti-Inflammatory Activity and Phenolic Compound Determination of King Oyster Mushroom Pleurotus eryngii (Agaricomycetes) from Algeria.
+
+Authors: Si-Larbi, Ali; Benahmed, Fatiha; Esseddik, Toumi Mohammed; Aissa, Boualem Benamar; Ilhem, Meriane
+
+Year: 2026
+
+PMID: 41722109
+
+Keywords/MeSH: Algeria; Animals; Anti-Inflammatory Agents; Antioxidants; Flavonoids; Mice; Phenols; Pleurotus; Polyphenols
+
+Publication Types: Journal Article
+
+Abstract:
+The current study investigates the biological efficacy and polyphenol and flavonoid content of aqueous and ethanolic 80% extracts of Pleurotus eryngii from the western region of Algeria. Total phenolic content (TPC) and total flavonoid content (TFC) were determined using colorimetric methods. The antioxidant activity was evaluated in vitro, whereas the anti-inflammatory activity was assessed via the protein denaturation method. The results indicated that the aqueous extract showed clear predominance across all evaluated indicators compared to ethanolic extract. It demonstrated a higher TPC and TFC [20.65 ± 0.27 mg of gallic acid equivalents (GAE)/g of extract and 5.69 ± 0.07 mg quercetin equivalents (QE)/g of extract, respectively], and enhanced antioxidant activity with an IC50 value of 714.57 ± 59.51 μg/mL for DPPH, along with greater reducing power (CA0.5 = 35.51 ± 1.86 μg/mL and EC50 = 687.89 ± 1.96 μg/mL) and elevated levels of total antioxidant capacity (TAC = 129.63 ± 1.14 μg AAE/g of extract). Moreover, the aqueous extract displayed significant anti-inflammatory activity, reaching an inhibition rate of 59.59% at a concentration of 1 mg/mL. LC-MS/MS analysis identified the phenolic acids as trans-cinnamic acid, gentisic acid and P-coumaric acid, with trans-cinnamic as main compound. These results illustrate the potent biological activity of the extracts of P. eryngii, indicating its potential for mushroom-based therapeutic applications.

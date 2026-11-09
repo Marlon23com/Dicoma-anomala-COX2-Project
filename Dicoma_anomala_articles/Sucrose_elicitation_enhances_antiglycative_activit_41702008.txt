@@ -1,0 +1,14 @@
+Title: Sucrose elicitation enhances antiglycative activity in safflower (Carthamus tinctorius L.) sprouts via stimulated biosynthesis of luteolin-7-glucoside.
+
+Authors: Zhou, Qian; Wu, Jun; Chen, Ken; Li, Yanyi; He, Jiayi; Li, Haitao; Wang, Mingfu
+
+Year: 2026
+
+PMID: 41702008
+
+Keywords/MeSH: Amylase activity; Asteraceae; Carbohydrate elicitation; Carthamus tinctorius; Cynaroside; Flavonoid; Glucosides; Luteolin; Plant Extracts; Plant Proteins; Seedlings; Sucrose
+
+Publication Types: Journal Article
+
+Abstract:
+Safflower (Carthamus tinctorius L.) sprouts, consumed as nutrient-rich vegetable, are recognized for their health-promoting properties due to their abundance of bioactive compounds. These properties position them as a valuable addition to a balanced diet. The present study explored the antiglycative potential of safflower sprouts and identified luteolin-7-glucoside (cynaroside, L7G) as a key active component through antiglycative-activity guided screening and instrumental analyses. Additionally, quantitative analyses revealed that L7G was predominantly localized in the cotyledons. To optimize L7G production, various carbohydrate treatments were evaluated, with sucrose demonstrating the most remarkable stimulatory effect. Transcriptomic analysis further suggested that sucrose treatment enriched the starch and sucrose metabolism pathway, leading to significant upregulation of amylase activity. This indicated metabolic adaptations that facilitated L7G production under sucrose-induced abiotic stress. Collectively, these findings underscore the potential of sucrose treatment as a strategy to enhance the antiglycative properties of safflower sprouts, advancing their application in functional foods.

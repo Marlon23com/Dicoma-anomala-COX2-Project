@@ -1,0 +1,18 @@
+Title: Camellia japonica hyperoside exhibits anti-age-related macular degeneration effects in an ARPE-19 cell model by inhibiting apoptosis via JNK-Nrf2/HO-1 activation.
+
+Authors: Song, Seung-Yub; Le, Duc Dat; Lee, Mina; Cho, Seung-Sik; Park, Dae-Hun
+
+Year: 2026
+
+PMID: 41655724
+
+Keywords/MeSH: 4-HNE/MDA; Age-related macular degeneration (AMD); Antioxidants; Apoptosis; Camellia; Cell Line; Heme Oxygenase-1; Humans; Hyperoside; JNK-Nrf2/HO-1; NF-E2-Related Factor 2; Plant Extracts; Plant Leaves; Quercetin; Retinal Pigment Epithelium
+
+Publication Types: Journal Article
+
+Abstract:
+Camellia japonica is recognized for its edible and therapeutic value in East Asia, and has anti-inflammatory, antioxidative, and antiasthmatic properties. However, the active compound and the modes of action are unclear.
+To evaluate the anti-AMD effect of hyperoside isolated from the leaves and twigs of Camellia japonica and to explore the underlying mechanisms using an ARPE-19 AMD cell model.
+The hyperoside content in the extracts was evaluated using feature-based molecular network and UHPLC-MS/MS system. Network pharmacology was used to predict the interactions of hyperoside with AMD-related signaling pathways and the underlying mechanisms. For in vitro evaluation of the anti-AMD effects, ARPE-19 cells were divided into six treatment groups: CON, no treatment; A2E, AMD induction using 30 μM A2E and 20 mW/cm
+Hyperoside was nontoxic to ARPE-19 cells up to 150 μM. It dose-dependently decreased A2E and blue light-induced AMD in ARPE-19 cells by upregulating the antiapoptotic Bcl-2 protein (Bcl-xL) and downregulating the proapoptotic Bcl-2 proteins (Bad and Bim). Hyperoside dephosphorylated JNK and p38 MAPKs in a dose-dependent manner, eradicated DPPH and ABTS radicals, and activated Nrf2/HO-1 and SOD-1. It also decreased the levels of 4-HNE and MDA.
+We conclude that C. japonica hyperoside could be a promising anti-AMD drug.

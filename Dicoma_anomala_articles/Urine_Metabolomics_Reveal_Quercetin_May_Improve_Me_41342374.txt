@@ -1,0 +1,14 @@
+Title: Urine Metabolomics Reveal Quercetin May Improve Metabolic Diseases and Alleviate Brain Inflammation Through Modulation of the NF-κB/NLRP3 Pathway.
+
+Authors: Zheng, Kai; Wang, Weidi; Dai, Jiaohua; Jian, Li; Zhao, Xiujuan
+
+Year: 2026
+
+PMID: 41342374
+
+Keywords/MeSH: Animals; Antidepressive Agents; Antioxidants; Depression; Disease Models, Animal; Encephalitis; Male; Metabolic Diseases; Metabolomics; NF-kappa B; NLR Family, Pyrin Domain-Containing 3 Protein; Prefrontal Cortex; Quercetin; Rats; Rats, Sprague-Dawley; Signal Transduction; Stress, Psychological; flavonoids; inflammation; metabolomics
+
+Publication Types: Journal Article
+
+Abstract:
+Depression is a mental disorder, and the complexity of its pathogenesis affects the treatment and prevention of depression. Flavonoids possess a variety of biological effects, including antidepressant properties. Quercetin, a natural flavonoid, exhibits antioxidant, antidepressant and anti-inflammatory effects. This research investigated the antidepressant properties of quercetin on rats induced by chronic unpredictable mild stress through untargeted metabolomics. A total of 96 rats were randomly allocated across six groups: control group, quercetin-treated groups receiving distinct dosages (10 and 50 mg/kg bw, respectively), depression model group, and different dosages of quercetin intervention in the depression model. During the 8 wk chronic unpredictable mild stress modeling process, quercetin was administered to the rats via gavage once daily. After 8 wk modeling, rat urine samples and prefrontal cortex were collected for untargeted metabolomics research and related detection, respectively. 19 differential metabolites were identified in the urine of chronic unpredictable mild stress-induced rats, and pathway analysis indicated metabolic disorders in rats, including arachidonic acid metabolism and amino acid metabolism. This study found that the elevation of urinary PGE2 and LTB4 is closely associated with the activation of the NF-κB/NLRP3 pathway in the PFC of chronic unpredictable mild stress-induced rats. Metabolomics reveals that quercetin can ameliorate metabolic disorders induced by chronic unpredictable mild stress through multiple pathways, and inhibit the activation of the NF-κB/NLRP3 pathway in the PFC by exerting anti-inflammatory and antioxidant effects. This study offers novel insights into the role of quercetin for the prevention and management of depression.

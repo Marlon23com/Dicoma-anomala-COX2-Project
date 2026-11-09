@@ -1,0 +1,14 @@
+Title: Decoding natural products for neuroprotection: Pathway networks and structural insights for drug development.
+
+Authors: Ghosh, Suman; Debnath, Ishita; Bhunia, Sobhanjan; Nandi, Sumit; Ashique, Sumel; Nayak, Aditi; Mallick, Susmita; Basak, Souvik
+
+Year: 2025
+
+PMID: 41399798
+
+Keywords/MeSH: curcumin; fucoxanthin; ginsenosides; natural products; neurodegenerative diseases; phlorotannin; quercetin; resveratrol
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Neurodegenerative diseases (NDs), including Alzheimer's, Parkinson's, Huntington's, and amyotrophic lateral sclerosis, are progressive disorders marked by neuronal dysfunction and death, driven by pathological mechanisms such as oxidative stress, mitochondrial dysfunction, neuroinflammation, apoptosis, and protein misfolding. Despite scientific advances, current treatments remain largely palliative, underscoring the need for multitargeted therapeutic strategies. This narrative review synthesizes preclinical and clinical evidence to explore the neuroprotective potential of natural products, with a focus on their ability to modulate key molecular pathways implicated in NDs. A comprehensive literature search across Scopus, ScienceDirect, PubMed, MDPI, and Web of Science identified relevant studies. Bioactive compounds such as curcumin, resveratrol, ginsenosides, quercetin, and marine-derived molecules like fucoxanthin and phlorotannin demonstrated antioxidant, anti-inflammatory, anti-amyloidogenic, and mitochondrial-protective effects by modulating pathways including PI3K/Akt, NF-

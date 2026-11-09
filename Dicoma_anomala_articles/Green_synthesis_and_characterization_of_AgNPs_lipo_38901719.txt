@@ -1,0 +1,14 @@
+Title: Green synthesis and characterization of AgNPs, liposomal loaded AgNPs and ZnPcS
+
+Authors: Chota, Alexander; Abrahamse, Heidi; George, Blassan P
+
+Year: 2024
+
+PMID: 38901719
+
+Keywords/MeSH: Apoptosis; Breast Neoplasms; Breast cancer; Cell Survival; Female; Green Chemistry Technology; Humans; Indoles; Liposomes; MCF-7 Cells; Metal Nanoparticles; Nanoparticles, Dicoma anomala; Organometallic Compounds; Photochemotherapy; Photodynamic therapy; Photosensitizing Agents; Plant Extracts; Silver; Zinc phthalocyanine
+
+Publication Types: Journal Article
+
+Abstract:
+Breast cancer remains a formidable challenge in oncology despite significant advancements in treatment modalities. Conventional therapies such as surgery, chemotherapy, radiation therapy, and hormonal therapy have been the mainstay in managing breast cancer for decades. However, a subset of patient's experiences treatment failure, leading to disease recurrence and progression. Therefore, this study investigates the therapeutic potential of green-synthesized silver nanoparticles (AgNPs) using an African medicinal plant (Dicoma anomala methanol root extract) as a reducing agent for combating breast cancer. AgNPs were synthesized using the bottom-up approach and later modified with liposomes (Lip) loaded with photosensitizer (PS) zinc phthalocyanine tetrasulfonate (Lip@ZnPcS

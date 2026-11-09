@@ -1,0 +1,14 @@
+Title: Network pharmacology and molecular simulation insights into the anti-diabetic and anti-inflammatory mechanisms of Ricinus communis.
+
+Authors: Chakraborty, Bidhayak; Nayaka, Sreenivasa; Bhairappanavar, Chandan A; Kantli, Gireesh Babu; Nagaraja, Shashiraj Kariyellappa
+
+Year: 2026
+
+PMID: 41329217
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Diabetes mellitus; Humans; Hypoglycemic Agents; Inflammation; Molecular Docking Simulation; Molecular Dynamics Simulation; Molecular docking; NF-κB signalling pathway; Network Pharmacology; Network pharmacology; Phytochemicals; Plant Extracts; Protein Interaction Maps; Ricinus; Ricinus communis
+
+Publication Types: Journal Article
+
+Abstract:
+Diabetes mellitus and chronic inflammation are interconnected pathologies that necessitate multi-target therapeutic strategies. Ricinus communis, with a history of traditional use, was investigated for its anti-diabetic and anti-inflammatory potential via an integrated network pharmacology and bioinformatics approach. From 86 initial phytochemicals, seven bioactive compounds-quercetin, apigenin, kaempferol, stigmasterol, β-sitosterol, ellagic acid, and (-)-epicatechin-were screened based on pharmacokinetic and toxicity profiles. These compounds modulated 89 potential targets common to both diseases. Protein-protein interaction network analysis identified core hub genes, including TNF, RELA, NFKB1, GSK3B, MAPK1, MMP9, and PARP1. Enrichment analysis revealed these targets are significantly involved in key pathways such as the IL-17, TNF, and NF-κB signalling pathways, insulin resistance, and diabetic cardiomyopathy. Molecular docking demonstrated strong binding affinities (from - 9.7 to - 6.4 kcal/mol) between the compounds and hub targets, which was further validated by molecular dynamics simulations. The simulations confirmed the stability of the complexes, low eigenvalues, and restricted binding site flexibility, which indicate effective ligand-induced stabilization. This study deciphers the molecular basis of R. communis, suggesting its compounds act synergistically on a multi-target network to counteract inflammation and diabetes. The results establish a scientific basis for the traditional application of R. communis and identify it as a potential source for the development of novel multi-target therapeutics. Subsequent research should prioritize in-vivo experimental validation of these predicted interactions to verify the anti-diabetic and anti-inflammatory efficacy of the lead compounds.

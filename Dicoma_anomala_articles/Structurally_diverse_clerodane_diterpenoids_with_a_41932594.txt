@@ -1,0 +1,14 @@
+Title: Structurally diverse clerodane diterpenoids with anti-inflammatory and anti-diabetic effects from Tinospora crispa (L.) Hook.f. & Thomson.
+
+Authors: Chen, Xianghong; Gao, Tian; Wang, Qiang; Yuan, Yiyang; Yu, Chenyang; Li, Jun; Huang, Xianju; Xiong, Hui; Mei, Zhinan; Yang, Guangzhong; Chen, Yu
+
+Year: 2026
+
+PMID: 41932594
+
+Keywords/MeSH: Anti-diabetic effect; Anti-inflammatory activity; Clerodane diterpenoid; Menispermaceae; Tinospora crispa (L.) Hook.f. & Thomson
+
+Publication Types: Journal Article
+
+Abstract:
+Eight previously unreported clerodane diterpenoids (1-8), named tinocrispines A-H, and fifteen related known compounds (9-23), were isolated from Tinospora crispa (L.) Hook.f. & Thomson. Spectral data combined with quantum chemical calculations were applied to investigate the structural characteristics and absolute configurations. All of the isolated clerodanes contain 6/5/6/6, 6/5/6, 6/6/5, 6/6/6, and 6/6 fused ring systems with different heterocyclics. The effects of isolated clerodane diterpenoids on inflammation were assessed using a cell-based assay that measures nitric oxide (NO) release in LPS-treated RAW264.7 macrophages. Tinosporol C (IC

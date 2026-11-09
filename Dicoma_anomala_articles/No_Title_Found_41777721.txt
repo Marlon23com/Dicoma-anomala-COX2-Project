@@ -1,0 +1,17 @@
+Title: No Title Found
+
+Authors: Jumriani, Jumriani; Aswad, Muhammad; Ratnawati, Ratnawati; Filmaharani, Filmaharani; Nurhidayah, Anggun; Azmin, Muhammad Rayza; Roosevelt, Alfreds; Alfiana, Rizky; Hardiyanti, Widya; Latada, Nadila Pratiwi; Mudjahid, Mukarram; Nainu, Firzan
+
+Year: 2026
+
+PMID: 41777721
+
+Keywords/MeSH: DPP4 inhibition; Drosophila melanogaster; diabetes mellitus; molecular docking; quercetin
+
+Publication Types: Journal Article
+
+Abstract:
+Diabetes mellitus is a global health issue caused by chronic hyperglycemia. Although various therapeutic options are available, each carries potential side effects, prompting growing interest in exploring natural compounds as alternative treatments. Quercetin, a flavonoid known for its antioxidant and anti-inflammatory properties, is suspected to play a role in glucose regulation, although its molecular mechanisms remain incompletely understood. This study aimed to analyze the 
+Phenotypic evaluation included measurements of body morphology, locomotor activity, survival rate, and hemolymph glucose levels. Molecular analyses were conducted using reverse transcription quantitative PCR (RT-qPCR), while molecular docking studies were performed to assess quercetin's interaction with the enzyme dipeptidyl peptidase-4 (DPP4).
+Quercetin significantly reduced hemolymph glucose levels in both larvae (
+This study provides both phenotypic and molecular evidence that quercetin exerts hypoglycemic effects in 

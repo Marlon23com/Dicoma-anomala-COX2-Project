@@ -1,0 +1,14 @@
+Title: Harnessing natural compounds and nanotechnology for miRNA-based osteosarcoma therapy.
+
+Authors: AlAqel, Abdullah; El-Sayyad, Gharieb S; Aly, Shaza H; Elesawy, Ahmed E; Mohammed, Osama A; Mohamed, Hend H; El-Dakroury, Walaa A; Abdelsalam, Maha; Doghish, Ahmed S
+
+Year: 2026
+
+PMID: 41668793
+
+Keywords/MeSH: No Keywords Found
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Osteosarcoma remains one of the most challenging malignancies due to its aggressive nature, metastatic potential, and resistance to conventional therapies. Recent advances have underscored the pivotal role of microRNAs (miRNAs) in the regulation of key oncogenic and tumor suppressor pathways involved in osteosarcoma progression, including PI3K/AKT, Wnt/β-catenin, and TGF-β signaling. The modulation of miRNAs offers a promising therapeutic avenue, but effective delivery systems are essential to realize their full potential. Natural compounds derived from plants, such as flavonoids, resveratrol, quercetin, and epigallocatechin-3-gallate, have demonstrated notable capacity to modulate miRNA expression, inducing apoptosis, inhibiting proliferation, and reducing metastasis with fewer adverse effects compared to traditional chemotherapy. These bioactive molecules possess intrinsic anti-inflammatory, antioxidant, and osteogenic properties, which, when combined with miRNA regulation, can synergistically impede osteosarcoma progression. Nanotechnology-based delivery systems, including multilayered nanoparticles, magnetic nanostructures, and biodegradable nanocarriers, have emerged as effective platforms to overcome these obstacles. These nanocarriers can be engineered for targeted, controlled, and sustained release of therapeutic agents, enhancing accumulation at tumor sites while minimizing systemic toxicity. Additionally, functionalization with targeting ligands such as folic acid or antibodies further improves specificity towards osteosarcoma cells. This review emphasizes the potential of combining natural compounds with nanotechnology to develop innovative, targeted, and effective therapies for osteosarcoma. It highlights the opportunities for future research to optimize delivery systems, elucidate mechanisms of action, and establish clinical applicability. By harnessing the biological benefits of natural agents and the precision of nanomedicine, these approaches hold significant promise for improving therapeutic outcomes and reducing adverse effects in osteosarcoma treatment.

@@ -1,0 +1,17 @@
+Title: Phytochemical Insights and Anticancer Potential of Solanum americanum Mill: A Multi-Omics Perspective.
+
+Authors: Goswami, Pawan Kumar; Antal, Sonakshi; Kumar, Ranjeet; Dhiman, Priya
+
+Year: 2026
+
+PMID: 41930599
+
+Keywords/MeSH: Solanum americanum Mill.; anticancer activity; apoptosis; medicinal plant.; multi-omics; phytochemicals; steroidal glycoalkaloids
+
+Publication Types: Journal Article
+
+Abstract:
+Solanum americanum Mill is a medicinal plant, which is used in the traditional systems of medicine in Ayurveda, African, Pacific Islander, and Native American for treating fever, liver disorders, inflammation, infections, and cancer. Notwithstanding its widespread traditional use and claims, rigorous scientific investigation of its phytochemical constitution and biological activities, including its anticancer potential, is lacking and scattered. In this review, the authors investigate the phytochemical constituents, pharmacological activities, and anticancer mechanisms of S. americanum, particularly focusing on the role of cutting-edge analytical approaches and multi-omics strategies in clarifying its therapeutic activities.
+A thorough literature review of scientific databases was conducted to gather information on the traditional use of the plant, bioactive compounds, and pharmacological studies. Mechanistic studies on apoptosis, oxidative stress, and cell cycle arrest were conducted. High throughput HPTLC, HPLC, LC-MS, GC-MS, and NMR, as well as the Fire-blanket approach of genomics-transcriptomics-proteomics, and the integration of metabolomics data were used to strengthen molecular insights. ` Results: The plant species harbours different phytoconstituents, including steroidal glycoalkaloids such as solamargine and solasonine, flavonoids such as quercetin and kaempferol, and phenolic acids such as chlorogenic acid, which exhibit antioxidant, anti-inflammatory, antimicrobial, and anticancer activities. The anticancer effects are achieved through apoptosis, ROS production, and the Blockade of PI3K/Akt/mTOR and NF-κB pathways. Omics-profiling shows alterations in gene/protein expression and pathways that support the selective cytotoxicity, as well as the potential therapeutic utility of targeting it in cancer cells.
+The results also reflect the multitargeting potential of S. americanum as a therapeutic agent by virtue of its capacity to modulate several signaling pathways associated with cancer. The integration of omics technologies not only facilitates our insight into the molecular mechanisms of UA but also has the potential to support biomarker identification and target-based drug design. Nevertheless, additional preclinical and clinical trials would be required to validate efficacy, bioavailability, and safety. The authors highlight that standardization, pharmacokinetic assessment, and formulation optimization are crucial steps for the successful binging of S. americanum from bench to bedside.
+Solanum americanum Mill. has significant potential as a multi-targeted, plant-derived therapeutic agent in oncology. It is complemented by contemporary omics approaches to provide accurate phytochemical characterization and mechanistic rectification, thereby advocating its progression in personalized medicine and drug discovery flows.

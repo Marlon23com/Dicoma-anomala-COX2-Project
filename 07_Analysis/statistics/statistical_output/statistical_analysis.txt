@@ -1,0 +1,58 @@
+--- Statistical Analysis ---
+1. T-Test (Top Hits vs. Rest of Library):
+   Mean Hit Affinity: -9.73 kcal/mol
+   Mean Rest Affinity: -7.30 kcal/mol
+   P-Value: 1.0069e-06
+   Result: SIGNIFICANT (Hits are statistically better than the rest)
+
+2. Comparison to Reference (RCX: -10.22 kcal/mol):
+   Apigenin: -9.91 kcal/mol (Diff: +0.31)
+   Kaempferol: -9.85 kcal/mol (Diff: +0.37)
+   Luteolin: -9.70 kcal/mol (Diff: +0.52)
+   Quercetin: -9.69 kcal/mol (Diff: +0.53)
+   Scutellarein: -9.49 kcal/mol (Diff: +0.73)
+
+
+
+--- Advanced Statistical Analysis ---
+
+1. Descriptive Statistics:
+
+Top Hits:
+   Count: 5
+   Mean: -9.73 kcal/mol
+   Std Dev: 0.17
+   Median: -9.70
+   Min: -9.91
+   Max: -9.49
+
+Reference (RCX):
+   Count: 1
+   Mean: -10.22 kcal/mol
+   Std Dev: nan
+   Median: -10.22
+   Min: -10.22
+   Max: -10.22
+
+Rest of Library:
+   Count: 28
+   Mean: -7.30 kcal/mol
+   Std Dev: 0.88
+   Median: -7.33
+   Min: -8.65
+   Max: -4.63
+
+2. One-Way ANOVA (Top Hits vs. Reference vs. Rest):
+   F-Statistic: 23.08
+   P-Value: 7.2713e-07
+   Result: SIGNIFICANT differences between groups
+
+3. Post-hoc Tukey's HSD:
+   Multiple Comparison of Means - Tukey HSD, FWER=0.05   
+=========================================================
+  group1   group2  meandiff p-adj   lower   upper  reject
+---------------------------------------------------------
+Reference     Rest   2.9173 0.0042  0.8562  4.9784   True
+Reference Top Hits   0.4924 0.8491 -1.7262   2.711  False
+     Rest Top Hits  -2.4249    0.0 -3.4082 -1.4416   True
+---------------------------------------------------------

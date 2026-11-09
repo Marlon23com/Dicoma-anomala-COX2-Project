@@ -1,0 +1,14 @@
+Title: Regulation of TGF-β and BMP Signaling by Natural Triterpene Compounds in Pulmonary Arterial Hypertension (PAH).
+
+Authors: Sener, Sila Ozlem; Shaha, Sabita; İşcan, Saltan Gülçin; Ozgen, Ufuk; Baran, Merve Yuzbasioglu; Nalcaoğlu, Aleyna; Nasim, Md Talat
+
+Year: 2025
+
+PMID: 41296443
+
+Keywords/MeSH: BMPR-II; PAH; TGFBR2; lupeol; ψ-taraxasterol
+
+Publication Types: Journal Article
+
+Abstract:
+Pulmonary arterial hypertension (PAH) is a devastating cardiovascular disorder caused by right heart failure leading to premature death. The TGFBR2 and BMPR-II receptors, which are members of the TGF-β receptor family, are considered promising targets for developing novel drugs in PAH. Lupeol and ψ-taraxasterol, naturally occurring triterpene molecules with proven anti-inflammatory, anti-cancer, and cardioprotective activities, hold considerable potential in the treatment of PAH. Hence, the present study aimed to evaluate the impacts of lupeol and ψ-taraxasterol isolated from 

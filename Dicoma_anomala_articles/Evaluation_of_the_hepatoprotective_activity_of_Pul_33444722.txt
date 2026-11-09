@@ -1,0 +1,18 @@
+Title: Evaluation of the hepatoprotective activity of Pulicaria incisa subspecies candolleana and in silico screening of its isolated phenolics.
+
+Authors: Bakr, Riham O; Shahat, Esraa A; Elissawy, Ahmed E; Fayez, Ahmed M; Eldahshan, Omayma A
+
+Year: 2021
+
+PMID: 33444722
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Antioxidants; Chemical and Drug Induced Liver Injury; Computer Simulation; Cyclooxygenase 2; Flavonoids; Hepatoprotective activity; In silico modelling; Methotrexate; Molecular Docking Simulation; Phenolics; Phenols; Phospholipases A2; Phytochemicals; Plant Extracts; Protective Agents; Pulicaria; Pulicaria incisa; Rats; Rats, Wistar; Silymarin
+
+Publication Types: Journal Article
+
+Abstract:
+Pulicaria incisa sub. candolleana E. Gamal-Eldin (Asteraceae) was traditionally used by Bedouins as a refreshing tea and as hypoglycemic, in gastrointestinal ailments, sinusitis and headache. Recently a great correlation has been established between liver cirrhosis and gastrointestinal dysfunction reflected by abdominal bloating, pain, diarrhea, constipation, besides decreased food intake. So far, the hepatoprotective effect of P. incisa sub. candolleana E. Gamal-Eldin was not studied before although other Pulicaria species have previously shown hepatoprotective and antioxidant effects.
+In this study, we aimed to identify the phytochemical constituents of the P. incisa sub. candolleana E. Gamal-Eldin hydroethanolic extract (PICE), as well as to evaluate the hepatoprotective, anti-inflammatory and antioxidant activities in methotrexate (MTX)- intoxicated rats. Besides, the molecular interaction between the isolated compounds and cyclooxygenase-2 (COX-2) and phospholipase 2 (PLA-2) were assessed by in-silico screening.
+The main phytoconstituents were characterized using liquid chromatography-tandem mass spectrometry (LC-MS-MS). Vacuum liquid chromatography (VLC) aided by preparative high-performance liquid chromatography (HPLC) were also used to isolate the major phenolics from the hydroethanolic extract. Their structures were elucidated using different spectroscopic analysis methods, including 1D and 2D nuclear magnetic resonance (NMR) and electrospray ionization mass spectrometry (ESI/MS). The hepatoprotective activity of three doses (100, 250, 500 mg/kg) of PICE in MTX-intoxicated rats was assessed and compared to silymarin as a standard. Additionally, in silico docking study on cyclooxygenase-2 (COX-2) and phospholipase 2 (PLA-2) was performed to justify the anti-inflammatory activity of the isolated compounds.
+Thirteen compounds were tentatively identified, including flavonoids and phenolic acids. Four main isolated compounds were identified as, eugenol-1-O-β-glucoside, 5-O-caffeoylquinic acid, 3, 5-di-O-caffeoylquinic acid and quercetin-3-O-β-glucoside. Treatment of MTX-intoxicated rats with the 250 mg/kg extract reversed the altered levels of biochemical markers of liver damage, ameliorated the oxidant status and reduced the inflammatory mediators, similar to treatment with silymarin. Quercetin-3-O-β-glucoside showed the best docking energy score of -19.12 kcal/mol against COX-2, forming four binding interactions with residues Leu 353, Arg 121, Tyr 356 and Ala 528, followed by 3,5-di-O-caffeoylquinic acid (-18.01 kcal/mol).
+This study reveals P. incisa sub. candolleana as a rich source of phenolics including flavonoids, supporting its anti-inflammatory and hepatoprotective effects and suggesting its usage as a promising candidate in inflammatory conditions.

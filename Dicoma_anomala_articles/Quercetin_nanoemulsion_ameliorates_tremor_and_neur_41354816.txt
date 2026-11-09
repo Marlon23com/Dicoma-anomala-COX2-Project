@@ -1,0 +1,17 @@
+Title: Quercetin nanoemulsion ameliorates tremor and neuroinflammatory dysregulation: behavioral and molecular insights in a mouse model of essential tremor.
+
+Authors: Pirmoradi, Zeynab; Soti, Monavareh; Kohlmeier, Kristi A; Shabani, Mohammad; Shahsavari, Fatemeh
+
+Year: 2025
+
+PMID: 41354816
+
+Keywords/MeSH: Animals; Behavior, Animal; Disease Models, Animal; Emulsions; Essential Tremor; Essential tremor; Harmaline; Lingo-1; Male; Mice; Neuroinflammation; Neuroinflammatory Diseases; Neuroprotective Agents; Quercetin; Quercetin nanoemulsion
+
+Publication Types: Journal Article
+
+Abstract:
+Essential tremor (ET) is a common movement disorder characterized by persistent limb tremors. Currently, no effective treatment for ET exists. Natural plant-derived compounds, like the flavonoid, quercetin may provide therapeutic benefits, particularly when delivered in nanoemulsion formulations that enhance bioavailability and efficacy. This study evaluated the neuroprotective potential of quercetin nanoemulsion (Que-NE) in a harmaline-induced mouse model of ET.
+Thirty-two male Swiss mice were randomly divided into four groups (n = 8 each): Control, Harmaline (10 mg/kg, i.p., on days 3, 5, and 7), Que-NE (20 mg/kg, i.p., for 7 days), and Harmaline + Que-NE. Harmaline was used to reliably induce tremor via olivocerebellar hyperexcitability. Behavioral performance was assessed using the open field, elevated plus maze, tail suspension, wire grip, rotarod, and passive avoidance tests. Expression of NF-κB, TNF-α, IL-1β, IL-6, NMDA receptor, and Lingo-1 was determined by RT-PCR.
+Que-NE significantly reduced harmaline-induced tremor severity (p < 0.0001), decreased immobility time in the tail suspension test (p = 0.0003), and improved open field anxiety-like behaviors compared with harmaline alone (P = 0.0012). Que-NE downregulated pro-inflammatory mediators (P < 0.0001) and reduced Lingo-1 gene expression (P < 0.0001). However, Que-NE showed limited efficacy in severe motor coordination tasks (rotarod, wire grip) and passive avoidance memory.
+Que-NE exerts measurable anti-inflammatory, anxiolytic, and antidepressant-like effects in the harmaline model of ET. The impact of Que-NE on improving motor deficits, reducing inflammatory markers, and suppressing inhibitors of synaptic plasticity highlights the potential of Que-NE as a disease-modifying strategy. However, dose-response, protein-level, and long-term studies are needed to evaluate the therapeutic potential of Que-NE for ET management.

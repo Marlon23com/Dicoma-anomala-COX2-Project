@@ -1,0 +1,12 @@
+*.pdb
+*.sdf
+*.pdbqt
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+*.xlsx
+!07_Analysis/final_tables.xlsx
+00_Documentation/thesis_drafts/
+.vscode/
+.venv/

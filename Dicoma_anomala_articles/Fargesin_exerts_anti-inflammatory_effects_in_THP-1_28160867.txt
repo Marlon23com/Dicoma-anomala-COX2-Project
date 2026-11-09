@@ -1,0 +1,18 @@
+Title: Fargesin exerts anti-inflammatory effects in THP-1 monocytes by suppressing PKC-dependent AP-1 and NF-ĸB signaling.
+
+Authors: Pham, Thu-Huyen; Kim, Man-Sub; Le, Minh-Quan; Song, Yong-Seok; Bak, Yesol; Ryu, Hyung-Won; Oh, Sei-Ryang; Yoon, Do-Young
+
+Year: 2017
+
+PMID: 28160867
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Anti-inflammation; Cell Line; Fargesin; Humans; Inflammation; JNK inhibitor; Lignans; Magnolia; Mice; Monocytes; NF-kappaB; Phytotherapy; Plant Extracts; Signal Transduction; THP-1 cells
+
+Publication Types: Journal Article
+
+Abstract:
+Fargesin is a lignan from Magnolia fargesii, an oriental medicine used in the treatment of nasal congestion and sinusitis. The anti-inflammatory properties of this compound have not been fully elucidated yet.
+This study focused on assessing the anti-inflammatory effects of fargesin on phorbal ester (PMA)-stimulated THP-1 human monocytes, and the molecular mechanisms underlying them.
+Cell viability was evaluated by MTS assay. Protein expression levels of inflammatory mediators were analyzed by Western blotting, ELISA, Immunofluorescence assay. mRNA levels were measured by Real-time PCR. Promoter activities were elucidated by Luciferase assay.
+It was found that pre-treatment with fargesin attenuated significantly the expression of two major inflammatory mediators, cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS). Fargesin also inhibited the production of pro-inflammation cytokines (IL-1β, TNF-α) and chemokine (CCL-5). Besides, nuclear translocation of transcription factors nuclear factor-kappa B (NF-ĸB) and activator protein-1 (AP-1), which regulate multiple pro-inflammatory genes, was suppressed by fargesin in a PKC-dependent manner. Furthermore, among the mitogen-activated protein kinases (MAPKs), only c-Jun N-terminal kinase (JNK) was downregulated by fargesin in a PKC-dependent manner, and this reduction was involved in PMA-induced AP-1 and NF-ĸB nuclear translocation attenuation, demonstrated using a specific JNK inhibitor.
+Taken together, our results found that fargesin exhibits anti-inflammation effects on THP-1 cells via suppression of PKC pathway including downstream JNK, nuclear factors AP-1 and NF-ĸB. These results suggest that fargesin has anti-inflammatory properties with potential applications in drug development against inflammatory disorders.

@@ -1,0 +1,14 @@
+Title: Quercetin and Its Metabolites: Mechanistic Insights as the Basis of Their Therapeutic Potential in NAFLD and HCC.
+
+Authors: Li, Zhengwen; Li, Yongzuo; Jiang, Tianqing; Wang, Yue; Li, Chujie; He, Zhengyou
+
+Year: 2025
+
+PMID: 41302497
+
+Keywords/MeSH: Animals; Antioxidants; Carcinoma, Hepatocellular; HCC; Humans; Liver Neoplasms; NAFLD; Non-alcoholic Fatty Liver Disease; Oxidation-Reduction; Quercetin; metabolites; microbiota; quercetin; redox modulation
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Quercetin, a dietary flavonoid, has demonstrated antioxidant, anti-inflammatory, and anti-tumor activities. Increasing evidence highlights that its metabolites contribute to these health benefits. This review summarizes current knowledge on the molecular mechanisms and therapeutic potential of quercetin and its metabolites in non-alcoholic fatty liver disease (NAFLD) and hepatocellular carcinoma (HCC), with a focus on redox modulation and microbiota interactions. Substantial preclinical evidence supports the protective effects of quercetin and its metabolites in NAFLD and HCC. However, clinical translation is hampered by poor bioavailability, potential redox-drug interactions, and incomplete understanding of the precise molecular mechanisms involved. Future research should prioritize further elucidating the molecular mechanisms, as they represent the foundation for the rational use of quercetin and metabolite-based derivatives in the prevention and treatment of liver-related diseases. In particular, strategies that direct the activity of these bioactive compounds to their desired sites of action-by exploiting differences between normal and cancer cells-warrant more in-depth investigation.

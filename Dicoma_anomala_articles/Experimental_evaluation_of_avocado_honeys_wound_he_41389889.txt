@@ -1,0 +1,17 @@
+Title: Experimental evaluation of avocado honey's wound healing properties: Physicochemical, antibacterial, anti-inflammatory, and proliferative effects combined with in silico toxicity and molecular docking analysis.
+
+Authors: Jarar, Donia; Imtara, Hamada; Kmail, Abdalsalam; Masalha, Mahmud; Aouji, Marouane; Weldali, Doha; Aboulghazi, Abderrazak; Lyoussi, Badiaa; Saad, Bashar
+
+Year: 2026
+
+PMID: 41389889
+
+Keywords/MeSH: Animals; Anti-Bacterial Agents; Anti-Inflammatory; Anti-Inflammatory Agents; Antibacterial; Antioxidant; Antioxidants; Cell Proliferation; HaCaT Cells; Honey; Humans; Microbial Sensitivity Tests; Molecular Docking Simulation; Molecular docking; Nitric Oxide; Persea; Wound Healing; Wound healing
+
+Publication Types: Journal Article
+
+Abstract:
+We evaluated the physicochemical and phytochemical characteristics of Palestinian avocado (Persea americana) honey and examined its antioxidant, antibacterial, anti-inflammatory, and wound-healing activities using integrated in vitro and in silico approaches.
+Polyphenolic compounds were quantified using HPLC. Antioxidant activity was evaluated through total phenolic content (TPC). Anti-inflammatory effects were assessed by measuring nitric oxide (NO) production in THP-1 macrophages. Wound healing potential was examined using HaCaT keratinocyte proliferation and scratch migration assays. Antibacterial activity was tested against selected Gram-positive and Gram-negative bacterial strains. Molecular docking was performed with AutoDock Vina using the Lamarckian Genetic Algorithm (LGA) for flexible ligand docking.
+Physicochemical analysis showed high water-soluble protein (296.96 ± 22.2 mg Eq BSA/100 g), moderate acidity (pH 4.23 ± 0.03), and elevated electrical conductivity (92.5 ± 1.05 μS). Phytochemical profiling revealed notable phenolic (144.76 ± 5.09 mg Eq GA/100 g) and flavonoid contents (3.54 ± 0.66 mg Eq Q/100 g), with strong antioxidant activity (TAC: 3.04 ± 0.34 g Eq AA/100 g. HPLC identified gallic acid, p-hydroxybenzoic acid, chlorogenic acid, quercetin, catechin, and galangin. Honey showed strong antibacterial activity (B. subtilis MIC 0.195 %, MBC 0.39 %; S. pneumoniae MIC/MBC 6.25 %), reduced nitric oxide, and promoted wound healing. Catechin and galangin were safe (LD
+The wound-healing effectiveness of avocado honey is attributed to its combined antioxidant, antimicrobial, anti-inflammatory, and cell-proliferative activities.

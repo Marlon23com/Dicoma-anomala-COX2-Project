@@ -1,0 +1,14 @@
+Title: Flavonoids in Autoimmune Diseases: Mechanisms, Clinical Evidence, and Future Directions.
+
+Authors: Simone, Wong; Salvamani, Shamala; Koh, Rhun Yian; Gunasekaran, Baskaran
+
+Year: 2025
+
+PMID: 41293950
+
+Keywords/MeSH: Autoimmune diseases; autoimmunity; flavonoids; molecular mechanisms; polyphenols; therapeutic effects.
+
+Publication Types: Journal Article
+
+Abstract:
+Autoimmune diseases remain one of the top leading causes of morbidity and mortality globally. While several first-line therapies like corticosteroids, immunosuppressants, and DMARDs are proven effective, their prolonged use often leads to drug-induced complications. Researchers are increasingly drawn to natural compounds, which are more accessible, inexpensive, and safer. Among these interventions are flavonoids, which are natural polyphenols derived from plants. The goal of autoimmune disease treatment is to. Flavonoids such as quercetin, EGCG balance effector and regulatory immune function to prevent autoimmunity. Flavonoids such as quercetin, EGCG, and silymarin exert immunomodulatory, anti-inflammatory, and antioxidant activities in this context by inhibiting NF-κB signaling and downregulating proinflammatory cytokines such as IL-6 and TNF-α. For this reason, flavonoids have gained attention as promising adjuvants to conventional therapies, especially in preclinical studies. However, robust clinical evidence remains limited, and further trials are necessary to validate these therapeutic claims. In this review, we summarize the newest research on the specific molecular mechanisms underlying flavonoids' therapeutic effects and their clinical use in certain autoimmune diseases.

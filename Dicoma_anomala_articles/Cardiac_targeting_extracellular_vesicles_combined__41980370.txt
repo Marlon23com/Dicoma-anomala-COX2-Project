@@ -1,0 +1,14 @@
+Title: Cardiac targeting extracellular vesicles combined with quercetin co-delivery system enhances the therapeutic efficacy of myocardial infarction.
+
+Authors: Zhang, Xinxin; Wang, Rui; Li, Xinpeng; Song, Jiaxin; Wang, Yongtao; Chatterjee, Emeli; Li, Guoping; Jiang, Jizong; Yao, Jianhua
+
+Year: 2026
+
+PMID: 41980370
+
+Keywords/MeSH: Drug combination; Extracellular vesicle; Myocardial infarction; Quercetin; Targeted therapy
+
+Publication Types: Journal Article
+
+Abstract:
+Myocardial infarction (MI) poses a significant threat to human health. The complex pathological changes following MI involve the generation of reactive oxygen species (ROS) and inflammatory mediators that aggravate myocardial injury. Single-drug treatment strategies have proven insufficient in effectively addressing MI; therefore, targeted drugs for its prevention and treatment are still lacking. Human plasma-derived extracellular vesicles (hEV) are promising therapeutic agents and drug delivery vehicles for MI. At the same time, quercetin (QU), a natural compound with immunomodulatory and antioxidant properties, holds potential in this regard. Therefore, the combination of these two agents may enhance their therapeutic effects against MI. In this study, we developed a cardiac-targeting peptide-modified hEV loaded with QU, as a co-delivery system (CTP-hEV-QU). This system demonstrated the ability to target infarcted hearts, reduce ROS levels, promote macrophage polarization from the M1 to M2 phenotype, and inhibit apoptosis in cardiomyocytes and vascular endothelial cells. CTP-hEV-QU exhibited an enhanced capacity to repair injured hearts through mechanisms closely associated with anti-inflammatory effects, antioxidative activity, and anti-apoptosis. Our findings elucidate the synergistic therapeutic mechanism of CTP-hEV-QU in MI repair, offering valuable insights into the development of novel targeted drugs for treating MI.

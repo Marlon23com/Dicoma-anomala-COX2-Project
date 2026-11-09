@@ -1,0 +1,14 @@
+Title: Bioactive-rich Mangifera indica leaf extracts alleviate inflammation, pain, and fever via suppression of pro-inflammatory cytokines and activation of Nrf2 pathways.
+
+Authors: Elghonemy, Mai M; Khattab, Amira R; Abdelhameed, Mohamed F; Ahmed, Rani F; Eid, Mona M; Ali, Alaa M; Kysil, Elana; Wessjohann, Ludger A; Nassar, Mahmoud I; Farag, Mohamed A; Elshamy, Abdelsamed I
+
+Year: 2026
+
+PMID: 41274214
+
+Keywords/MeSH: Analgesic; Analgesics; Animals; Anti-Inflammatory Agents; Antipyretic; Cytokine modulation; Cytokines; Fever; Inflammation; Male; Mangifera; Mango leaf; Mice; NF-E2-Related Factor 2; Nrf2 signaling; Pain; Plant Extracts; Plant Leaves; Signal Transduction; in vivo Anti-inflammatory
+
+Publication Types: Journal Article
+
+Abstract:
+Leaves of Mangifera indica (mango) are traditionally used to alleviate inflammation and pain, yet their bioactive chemical profiles and mechanisms of action remain underexplored. Given the growing demand for safer, plant-derived therapeutics as alternatives to conventional anti-inflammatory and analgesic drugs with known adverse effects, a deeper understanding of the bioactive composition of M. indica leaf is both timely and necessary. This study investigates the metabolomic composition and therapeutic potential of leaf extracts from two cultivars-Zebda and Alphonso. Aqueous, ethanol, n-butanol, and ethyl acetate extracts were analyzed using UHPLC-ESI-LIT-Orbitrap-MS and multivariate tools. In vivo assays were conducted to evaluate anti-inflammatory, analgesic, and antipyretic activities using biochemical, histopathological, and immunohistochemical assessments. Metabolomic profiling identified 48 compounds, including phenolics, flavonoids, xanthones, and terpenes. EtOAc extracts were enriched in methyl gallate, maclurin derivatives, and iriflophenone compounds, while aqueous and EtOH extracts contained higher levels of mangiferin, isomangiferin, and quinic acid. Biological evaluations revealed that the EtOAc and H

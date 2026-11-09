@@ -1,0 +1,7 @@
+rdkit
+pandas
+requests
+biopython
+scikit-learn
+tqdm
+chemdataextractor

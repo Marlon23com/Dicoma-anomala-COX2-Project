@@ -1,0 +1,14 @@
+Title: Harnessing Isorhamnetin for Gastrointestinal Cancers: Molecular Mechanisms and Therapeutic Potential.
+
+Authors: Koli, Dolly; Sheokand, Anju; Sharma, Gulshan; Tuli, Hardeep Singh; Pahwa, Rakesh
+
+Year: 2026
+
+PMID: 41934157
+
+Keywords/MeSH: Animals; Gastrointestinal Neoplasms; Humans; Quercetin; chemoprevention; gastrointestinal cancers; isorhamnetin; nanoformulations; phytochemicals; targeted therapy
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Gastrointestinal (GI) cancers remain a major global health concern characterized by aggressive progression, poor prognosis, and resistance to traditional treatment modalities. Despite significant advancements, conventional treatments like surgery, chemotherapy, and radiotherapy often cause systemic toxicity, lack tumor specificity, multidrug resistance, and risk of relapse, emphasizing the need for safer and more targeted interventions. In response to these challenges, extensive research has focused on natural compounds for GI cancer treatment, with many phytochemicals demonstrating low toxicity and the ability to modulate multiple cancer-related pathways. Among natural compounds, isorhamnetin, a methylated flavonol and quercetin derivative found in various dietary sources, has emerged as a highly promising anticancer agent. Through modulation of various key oncogenic pathways such as PI3K/Akt, MAPK, NF-κB, and Wnt/β-catenin, isorhamnetin exerts pro-apoptotic, antiproliferative, anti-angiogenic, and anti-metastatic effects in various GI cancers. Isorhamnetin's chemopreventive efficacy is further underscored by its anti-inflammatory and antioxidant properties, which are essential in reducing chronic inflammation and oxidative stress commonly involved in GI tumor development. However, its efficacy and clinical translation remain hindered due to pharmacokinetic constraints such as low water solubility and rapid metabolism. Recent emerging nanotechnological approaches aim to address these challenges by enhancing their bioavailability and targeted delivery. This manuscript emphasizes the anticancer potential of isorhamnetin in GI malignancies, with a particular focus on its molecular mechanisms of action, chemopreventive properties, and recent progress in nanoformulation-based strategies.

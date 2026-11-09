@@ -1,0 +1,14 @@
+Title: Unveiling phytoconstituents and the anti-inflammatory potential of Crassula tetragona L. in ulcerative colitis: A focus on the PPARγ/SIRT1 axis.
+
+Authors: Raslan, Mona A; Abdel-Rahman, Rehab F; Fayed, Hany M; Elbaset, Marawan A; Taher, Rehab F
+
+Year: 2026
+
+PMID: 41351801
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Anti-inflammatory; Chromatography, High Pressure Liquid; Colitis, Ulcerative; Crassula tetragona L.; Disease Models, Animal; Male; PPAR gamma; Phenolics; Phytochemical; Phytochemicals; Plant Components, Aerial; Plant Extracts; Rats; Rats, Sprague-Dawley; Rats, Wistar; Sirtuin 1; Tandem Mass Spectrometry; Ulcerative colitis
+
+Publication Types: Journal Article
+
+Abstract:
+Crassula species are traditionally used and possess anti-inflammatory properties, but Crassula tetragona L. remains largely unexplored. This study intended to characterize C. tetragona aerial parts' phytoconstituents and assess its anti-ulcerative potential via the PPARγ/SIRT1 pathway. Aerial parts of C. tetragona were extracted using n-hexane (CT1) and 70% aqueous methanol (CT2). Phytoconstituents were profiled by HPLC-ESI-MS/MS (negative ion mode), and phenolics were quantified by MRM-LC-ESI-MS/MS. Column chromatography and NMR were used to separate and identify the compounds. Ulcerative colitis (UC) was induced in rats by intrarectal acetic acid (AA). Animals were assigned into six groups: control group: orally received vehicle for 7 days, UC control group: orally received vehicle for 7 days, and a rectal infusion of 2 mL AA (4% v/v in saline) on the 8th day, 4 treated groups: received CT1 (200 and 400 mg/kg/day), or received CT2 (200 and 400 mg/kg/day), once daily for 7 days by oral gavage and 2 mL AA (4% v/v in saline) on the 8th day. HPLC-ESI-MS/MS identified 66 constituents, including 37 novel compounds, with CT2 exhibiting higher phenolic content. Naringenin, gallic acid, and quercetin were predominant. Five phenolic compounds were isolated from the bioactive extract CT2. Both CT1 and CT2 reduced AA-induced tissue damage, lowered inflammatory markers (calprotectin, CRP, TNF-α, IL-6), improved oxidative stress (reduced MDA, increased GSH, SOD), and upregulated SIRT1 and PPARγ. These results suggest C. tetragona attenuates UC via the SIRT1/PPARγ pathway, indicating its therapeutic potential.

@@ -1,0 +1,18 @@
+Title: Daixie recipe ameliorates diet-induced MASH in mice
+
+Authors: He, Xiaoli; You, Jiawen; Deng, Yanyan; Hu, Yiren; Qi, Shenglan; Li, Qian; Yang, Yunyi; Qu, Xiaoxiao; Shao, Yanting; Fu, Xinyi; Yang, Shiyu; Wang, Zhiying; Li, Yunhao; Zheng, Min; Liu, Wei; Yang, Hongjie; Ge, Guangbo; Yao, Zheng; He, Yanming
+
+Year: 2026
+
+PMID: 41907553
+
+Keywords/MeSH: Animals; Daixie recipe (DXR); Diet, High-Fat; Drugs, Chinese Herbal; Fatty Liver; Humans; Keap1/Nrf2 signaling pathway; Kelch-Like ECH-Associated Protein 1; Male; Mice; Mice, Inbred C57BL; NF-E2-Related Factor 2; Oxidative Stress; PI3K/Akt signaling pathway; Phosphatidylinositol 3-Kinases; Proto-Oncogene Proteins c-akt; Signal Transduction; hepatocyte apoptosis; metabolic dysfunction-associated steatohepatitis (MASH); oxidative stress
+
+Publication Types: Journal Article
+
+Abstract:
+Metabolic dysfunction-associated steatohepatitis (MASH) is a highly prevalent liver disease that can progress to cirrhosis and hepatocellular carcinoma. Despite its growing clinical burden, effective therapies remain limited. Daixie recipe (DXR), derived from 
+To clarify the pharmacological effects of DXR and to elucidate the underlying mechanisms of DXR for treating MASH.
+UHPLC-Q-Orbitrap HRMS was used to identify the phytochemcials in DXR. The key targets and ingredients for combating MASH were explored by using a suite of 
+DXR shows significant therapeutic efficacy in ameliorating hepatic steatosis and inflammation, as evidenced by the marked reduction in the levels of serum biomarkers (such as ALT, AST, TG, TC, and LDL-c). Phytochemcial analysis coupling with network pharmacology analyses identify key targets of DXR for treating MASH, including AKT1, EGFR, TP53, STAT3, and IL6, with biological processes related to oxidative stress. Further investigations show that DXR significantly up-regulates p-AKT1, Nrf2, and HO-1, suggesting that this recipe activates both the PI3K/AKT and Keap1/Nrf2 signaling pathways. It is also found that DXR down-regulates the expression levels of key lipogenic enzymes (such as FASN, SCD1, and ACC1) but upregulates CPT1a in hepatocytes. DXR also exhibits significant antioxidant and anti-inflammatory effects, as demonstrated by a marked reduction in MDA levels and inflammatory cytokines (TNF-α, IL-1β, and IL-6), along with the increased activity levels of both SOD and GSH-Px. Additionally, DXR reduces hepatocyte apoptosis by up-regulating Bcl-2 and down-regulating Bax. Molecular dynamics simulations and luciferase reporter assays show that four flavonoids in DXR are key active constituents to activate the PI3K/AKT and Keap1/Nrf2 signaling pathways. Specifically, quercetin promotes AKT1 phosphorylation, while four flavonoids activate Nrf2 signaling, with apigenin exhibiting the most potent effect.
+DXR effectively ameliorates MASH in a mouse model by reducing hepatic steatosis, inflammation, and oxidative stress. Its mechanism of action involves the suppression of lipid synthesis and the prevention of hepatocyte apoptosis, achieved by modulating key anti-inflammatory and antioxidant signaling pathways. Flavonoids (such as apigenin and quercetin) are identified as the key active ingredients in DXR responsible for activating Keap1/Nrf2 and PI3K/AKT signaling pathways.

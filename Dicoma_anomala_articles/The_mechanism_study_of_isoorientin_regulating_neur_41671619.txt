@@ -1,0 +1,18 @@
+Title: The mechanism study of isoorientin regulating neuroinflammation after subarachnoid hemorrhage through AKT/GSK3β.
+
+Authors: Jiang, Yong-Xiao; Xu, Meng-Xiao; Cui, Yue; Wang, Jie; Liu, Xun-Zhi; Ding, Peng-Fei; Zhi, Si-Min; Zhang, Jia-Tong; Peng, Zheng; Li, Xiao-Jian; Chen, Xiang-Xin; Hang, Chun-Hua; Wu, Ling-Yun; Li, Wei
+
+Year: 2026
+
+PMID: 41671619
+
+Keywords/MeSH: AKT/GSK3β; Animals; Anti-Inflammatory Agents; Cytokines; Disease Models, Animal; Glycogen Synthase Kinase 3 beta; Humans; Isoorientin; Luteolin; Male; Mice; Mice, Inbred C57BL; Microglia; Neuroinflammation; Neuroinflammatory Diseases; Neuroprotective Agents; Proto-Oncogene Proteins c-akt; Rats; Rats, Sprague-Dawley; Signal Transduction; Subarachnoid Hemorrhage; Subarachnoid hemorrhage
+
+Publication Types: Journal Article
+
+Abstract:
+Subarachnoid hemorrhage (SAH) is a devastating cerebrovascular disease with high incidence and mortality rates, often associated with aneurysm rupture. Neuroinflammation, primarily mediated by microglial activation, is a critical process in the secondary injury following SAH. Despite extensive research, current Western medicine treatments have shown limited efficacy in mitigating neuroinflammation caused by microglia. In contrast, traditional Chinese medicine has garnered increasing attention for its anti-inflammatory properties. Isoorientin, a flavonoid compound, has demonstrated anti-inflammatory and antioxidant effects in various diseases. We hypothesize that isoorientin may inhibit microglia-induced neuroinflammation after SAH through the AKT/GSK3β pathway.
+To elucidate whether isoorientin can regulate neuroinflammation following subarachnoid hemorrhage via the AKT/GSK3β pathway.
+We established in vitro and in vivo SAH models using hemoglobin and blood injection methods, respectively. The regulatory effects of isoorientin on neuroinflammation were investigated using Western blotting (WB), quantitative polymerase chain reaction (qPCR), enzyme-linked immunosorbent assay (ELISA), and immunofluorescence staining (IF). Network pharmacology and molecular docking studies were conducted to explore the potential mechanisms. Additionally, the AKT inhibitor (MK2206) was employed to investigate its effects on the AKT/GSK3β pathway and neurological function after SAH. Neuroprotective effects were assessed using neurological function scores, open field tests, and rotarod tests.
+Isoorientin significantly inhibited the mRNA expression levels of pro-inflammatory cytokines (TNF-α, IL-1β, and IL-6) and promoted the expression levels of anti-inflammatory cytokines (CD206, IL-4, and IL-10). It facilitated the transformation of microglia from the M1 (pro-inflammatory) to the M2 (anti-inflammatory) phenotype. Further experiments revealed that isoorientin increased the expression of p-AKT protein in microglial cells, leading to the inactivation of GSK3β and upregulation of p-GSK3β protein, thereby suppressing neuroinflammation. However, these effects were reversed upon the addition of the AKT inhibitor (MK2206). In vivo experiments demonstrated that isoorientin improved short-term neurological functions, including motor functions, balance, and coordination abilities.
+This study provides compelling evidence that isoorientin exerts neuroprotective effects by regulating the AKT/GSK3β pathway, which may play a crucial role in mitigating neuroinflammation and neurological dysfunction after SAH. Isoorientin holds promise as a valuable therapeutic candidate for SAH treatment.

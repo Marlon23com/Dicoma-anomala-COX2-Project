@@ -1,0 +1,14 @@
+Title: Schleichera oleosa Bark Extract Shows Potent Anti-Arthritic Activity in Complete Freund's Adjuvant (CFA)-Induced Arthritis in Rats and Network Pharmacology.
+
+Authors: Tandalekar, Yogita B; Kulshreshtha, Shreyanshi; Jangra, Bhawana; Goyal, Alok; Jachak, Sanjay M
+
+Year: 2026
+
+PMID: 41918331
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Arthritis, Experimental; Cell Survival; Dose-Response Relationship, Drug; Freund's Adjuvant; Male; Mice; Nitric Oxide; Plant Bark; Plant Extracts; Rats; Rats, Sprague-Dawley; Schleichera oleosa; antioxidant; network pharmacology; rheumatoid arthritis; triterpenoids
+
+Publication Types: Journal Article
+
+Abstract:
+Schleichera oleosa (Lour.) Oken, known as "Koshamra" in Ayurveda, has long been used for treating pain, inflammation, ulcers, and rheumatic conditions. The present study investigated the anti-arthritic potential of S. oleosa bark using both in vitro and in vivo models. The methanol extract (SOM) and its fractions, n-hexane (SOH), ethyl acetate (SOE), n-butanol (SOB), and aqueous residue (SOA), were evaluated for cell viability, inhibition of nitric oxide production, and prevention of protein denaturation. Among all fractions, SOH showed the strongest in vitro activity and was selected for further testing in Complete Freund's Adjuvant (CFA)-induced arthritic rats at doses of 200 and 400 mg/kg. Further phytochemical investigation of SOH led to the isolation of lupeol, lupeol acetate, betulinic acid, and β-sitosterol. In addition, LC-HRMS profiling confirmed the presence of triterpenoids and phytosterols in this fraction. In vivo results demonstrated that SOH, particularly at 400 mg/kg, significantly reduced arthritic symptoms, improved antioxidant activity, and restored normal joint architecture. The treatment also lowered the levels of pro-inflammatory cytokines such as TNF-α, IL-1β, and IL-6. Network pharmacology analysis further supported the possible molecular mechanisms of the isolated triterpenoids in rheumatoid arthritis. Overall, the findings suggest that the n-hexane fraction of S. oleosa bark possesses promising anti-arthritic activity.

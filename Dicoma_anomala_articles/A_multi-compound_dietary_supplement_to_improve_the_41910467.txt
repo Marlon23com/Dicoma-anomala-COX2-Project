@@ -1,0 +1,17 @@
+Title: A multi-compound dietary supplement to improve the well-being of symptomatic uncomplicated diverticular disease.
+
+Authors: Bertani, Lorenzo; Chico, Lucia; Balestrini, Linda; Della Scala, Giulia; Satriano, Alissa; Manta, Raffaele
+
+Year: 2026
+
+PMID: 41910467
+
+Keywords/MeSH: No Keywords Found
+
+Publication Types: Journal Article
+
+Abstract:
+Current treatment strategies for symptomatic uncomplicated diverticular disease (SUDD) remain controversial. Nutraceuticals could be potential adjuvant treatments to reduce symptoms and improve Quality of Life (QoL).
+A retrospective analysis of data collected in a real-world clinical setting was performed on SUDD patients with persistent diarrheal symptoms following rifaximin therapy. A synbiotic anti-inflammatory dietary supplement (SADS), containing Lactobacillus rhamnosus GG, Hericium erinaceus, berberine, quercetin, palmitoylethanolamide, and Undaria, was administered daily for one month to evaluate its effectiveness in reducing these symptoms. Outcome measures included daily bowel movement frequency, Abdominal Pain Score, treatment satisfaction, and fecal calprotectin levels, and were evaluated at baseline (T0) and after one month (T1).
+Data from 54 SUDD patients (mean age: 53.2±11.3 years) were collected. Daily bowel movements significantly decreased after SADS treatment (T1) compared to T0 (2.18±0.8 vs. 3.8±0.7; P<0.001). Abdominal Pain Score also improved significantly (2.59±1.2 vs. 5.81±1.0; P<0.001), with 88.9% of patients reporting moderate-to-high treatment satisfaction. Calprotectin levels decreased significantly following SADS treatment (P<0.001), with positive test results reducing from 100% at T0 to 65% at T1, while negative results increased from 0% to 35%. Significant negative correlations were observed between treatment satisfaction and both abdominal pain scores (r=-0.742; P<0.001) and daily bowel movement frequency (r=-0.516; P<0.001).
+This SADS could be considered as a supportive treatment for SUDD patients, potentially alleviating symptoms and improving QoL. Further prospective clinical trials are required to confirm these observations.

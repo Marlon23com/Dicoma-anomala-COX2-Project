@@ -1,0 +1,14 @@
+Title: Quercetin and nanoquercetin mitigate high fat diet-induced obesity via lipid modulation, genomic DNA integrity restoration, adipokine regulation, and hepato-pancreatic tissue preservation.
+
+Authors: Lotify, Marwa A; Abdelgayed, Sherein S; Mohamed, Hanan R H
+
+Year: 2026
+
+PMID: 41865024
+
+Keywords/MeSH: Adipokines; Animals; Anti-Obesity Agents; Body Weight; Diet, High-Fat; Flavonoids; Hepatic and Pancreatic Function; High-Fat Diet; Lipid Metabolism; Lipids; Liver; Male; Nanoparticles; Obesity; Oxidative DNA Damage; Pancreas; Quercetin; Rats; Rats, Wistar
+
+Publication Types: Journal Article
+
+Abstract:
+Obesity is a global health challenge characterized by excessive fat accumulation and associated with life-threatening comorbidities such as type 2 diabetes, cardiovascular diseases, and certain cancers. Conventional treatments, including lifestyle modification and pharmacotherapy, often have limited long-term efficacy and potential side effects, highlighting the need for safer alternatives. Natural bioactive compounds, such as quercetin, a dietary flavonoid with antioxidant, anti-inflammatory, and metabolic regulatory properties, have emerged as promising anti-obesity agents. However, poor bioavailability limits its therapeutic application, prompting the development of nanoformulations. This study therefore estimated the anti-obesity potential of quercetin and nanoquercetin in a high-fat diet (HFD)-induced obesity model in male Wistar rats. Following acute toxicity testing, 36 rats were divided into six groups: non-obese control, obese HFD control, and non-obese or obese rats orally received quercetin or nanoquercetin at 10% of the safe dose daily for four weeks. Outcomes assessed included body weight, lipid profile, serum total protein, genomic DNA integrity, Adiponectin and Leptin gene expression, and histological changes in liver and pancreatic tissues. In non-obese rats, quercetin and nanoquercetin did not affect body weight and genomic DNA integrity but improved lipid profiles. Nanoquercetin additionally increased total protein levels. Both compounds upregulated Adiponectin expression in the liver, with nanoquercetin also enhancing pancreatic Adiponectin expression. Histology revealed preserved tissue architecture. In obese rats, administration of quercetin or nanoquercetin significantly reduced body weight, improved lipid and protein parameters, restored genomic DNA integrity, upregulated Adiponectin, downregulated Leptin, and markedly improved hepatic and pancreatic histological architecture. Nanoquercetin consistently produced more pronounced effects than quercetin.nIn. These findings demonstrate the therapeutic potential of quercetin, particularly its nanoform, as a multi-targeted anti-obesity agent. Its effects on metabolic regulation, genomic protection, and tissue preservation support further preclinical and clinical studies to explore its role as a safe and effective strategy for managing obesity.

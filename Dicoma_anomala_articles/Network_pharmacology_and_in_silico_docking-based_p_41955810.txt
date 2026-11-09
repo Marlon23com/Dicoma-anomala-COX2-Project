@@ -1,0 +1,14 @@
+Title: Network pharmacology and in silico docking-based prediction of molecular targets of Pterospermum acerifolium in primary breast cancer and metastases to bones.
+
+Authors: Kharade, Shutija; Datt, Manish; Godbole, Mukul S; Naik, Amruta
+
+Year: 2026
+
+PMID: 41955810
+
+Keywords/MeSH: Pterospermum acerifolium; bone; breast cancer; metastasis; molecular docking; network pharmacology
+
+Publication Types: Journal Article
+
+Abstract:
+Breast cancer is known to metastasize to distinct organs, including bones. Dysregulation of cellular receptors-particularly estrogen and growth factor receptors-drives tumor progression, therapy resistance, and metastasis. Natural bioactive compounds have potential to modulate multiple molecular targets, with minimal side effects. Here, we applied a network pharmacology and molecular docking approach to investigate the therapeutic potential of Pterospermum acerifolium in primary breast cancer and bone metastasis. While Pterospermum acerifolium possesses pharmacological properties-antioxidant and anti-inflammatory effects-its potential impacts on breast cancer metastasis remain largely uninvestigated. Based on literature and pharmacokinetic profiles of Pterospermum acerifolium, we selected three compounds viz. kaempferol, luteolin and β-sitosterol. We identified predicted genomic targets of these compounds from databases, and compared their lists of genes with those associated with breast cancer and its metastasis to bones. Functional enrichment analyses of the overlapping genes suggested association of cellular pathways central to tumor progression and bone metastasis, including PI3K-Akt, MAPK, VEGF and estrogen signaling. Network construction further identified key receptor-based targets-ERα, ERβ, IGF1R and VEGFR2-as hub-genes based on degree of centrality and connectivity within the protein-protein interaction network. Further, we performed molecular docking analyses to evaluate compound-receptor binding affinities; analyses revealed strong binding affinities, particularly with β-sitosterol, suggesting the multi-target therapeutic action. Interestingly, the molecular docking analyses indicated β-sitosterol to have stronger affinity to ERα, ERβ, IGF1R and VEGFR2 than that of their known inhibitors (tamoxifen, diarylpropionitrile, linsitinib and sorafenib, respectively). The analyses also identified key amino acids involved in the interactions of bioactive compounds with binding pocket of the four native protein structures, some of which were similar to those involved in interactions with the known inhibitors. Finally, molecular dynamics simulations analyses confirmed strong molecular interactions of β-sitosterol with VEGFR2 and ERβ. Taken together, the findings highlight potential of phytoconstituents of Pterospermum acerifolium, especially β-sitosterol, kaempferol and luteolin, for clinical management of breast cancer and its metastasis to the bone.

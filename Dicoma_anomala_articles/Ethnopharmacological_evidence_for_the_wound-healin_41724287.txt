@@ -1,0 +1,18 @@
+Title: Ethnopharmacological evidence for the wound-healing activity of Vanillosmopsis erythropappa Schultz-bip leaf extract ointments.
+
+Authors: Júnior, Duílio Teixeira Soares; Venâncio, Matheus Andrade; Gusmão, Leandro José; Pizziolo, Virgínia Ramos; Diaz-Muñoz, Gaspar; Diaz, Marisa Alves Nogueira
+
+Year: 2026
+
+PMID: 41724287
+
+Keywords/MeSH: Angiogenesis; Animals; Asteraceae; Brazilian folk medicine; Cell Proliferation; Cell Survival; Collagen; Ethnopharmacology; Fibroblast; Fibroblasts; Male; Medicine, Traditional; Mice; Ointments; Plant Extracts; Plant Leaves; Skin; Vanillosmopsis erythropappa Schultz-bip; Wound Healing; Wound healing
+
+Publication Types: Journal Article
+
+Abstract:
+Vanillosmopsis erythropappa Schultz-Bip (Asteraceae) is widely used in Brazilian folk medicine. Traditional and rural communities prepare topical remedies from its leaves and bark for wound healing, while the leaves are also used in syrups for cough, influenza, and digestive disorders. The essential oil obtained mainly from wood is traditionally applied to skin wounds and inflammatory conditions. Despite its extensive ethnomedicinal use, scientific evidence supporting the wound-healing properties of the leaves remains limited.
+This study aimed to investigate the wound-healing potential of the hexane extract from V. erythropappa Schultz-Bip leaves and to characterize its major bioactive compounds.
+Fibroblast viability was evaluated in vitro following treatment with the hexane extract. Phytochemical characterization was performed using GC-MS and LC-MS analyses. Ointments containing 1%, 3%, and 5% of the extract were topically applied to excisional wounds in a murine model. Wound contraction was assessed over 14 days, followed by histological and immunohistochemical analyses. Hematological and biochemical parameters were evaluated to assess safety.
+The extract significantly increased fibroblast proliferation in vitro. GC-MS analysis identified lupeol, lupenone, apigenin, luteolin, and friedelan-3-one as major constituents, while LC-MS confirmed the presence of flavonoids such as luteolin, apigenin, and kaempferol, compounds associated with collagen synthesis and fibroblast activation. In vivo, topical treatment with the extract significantly accelerated wound closure, reaching 94% (1%), 93% (3%), and 94% (5%) contraction by day 14, compared with 88% for the positive control (Fitoscar®). Histological analysis revealed increased collagen deposition with a predominance of type I collagen fibers. The demonstrated increased VEGF expression, indicating enhanced angiogenesis. No significant changes were observed in hematological or biochemical safety markers.
+These results support the traditional application of V. erythropappa Schultz-Bip leaves for wound healing and suggest their potential as a safe and effective topical herbal treatment.

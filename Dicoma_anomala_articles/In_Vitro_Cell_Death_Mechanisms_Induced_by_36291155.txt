@@ -1,0 +1,14 @@
+Title: In Vitro Cell Death Mechanisms Induced by
+
+Authors: Chota, Alexander; George, Blassan P; Abrahamse, Heidi
+
+Year: 2022
+
+PMID: 36291155
+
+Keywords/MeSH: Annexin A5; Caspase 3; Caspase 8; Cell Death; Chloroform; Dicoma anomala; Female; Fluorescein-5-isothiocyanate; Humans; Indoles; Lung Neoplasms; Male; Methanol; Organometallic Compounds; Photochemotherapy; Plant Extracts; Propidium; Tumor Suppressor Protein p53; apoptosis; bcl-2-Associated X Protein; lung cancer; photodynamic therapy; zinc phthalocyanine tetrasulfonate
+
+Publication Types: Journal Article, Research Support, Non-U.S. Gov't
+
+Abstract:
+Globally, lung cancer has remained the leading cause of morbidity and mortality in men and women. To enhance photodynamic therapeutic effects in vitro, the present study was designed to reduce dose-dependence in photodynamic therapy (PDT) and evaluate the anticancer effects of 

@@ -1,0 +1,14 @@
+Title: Natural Products Targeting Key Molecular Hallmarks in Gastric Cancer: Focus on Apoptosis, Inflammation, and Chemoresistance.
+
+Authors: Simancas-Racines, Daniel; Cagua-Ordoñez, Jaen; Angamarca-Iguago, Jaime; Parise-Vasco, Juan Marcos; Reytor-González, Claudia
+
+Year: 2026
+
+PMID: 41683770
+
+Keywords/MeSH: ABC transporters; Animals; Apoptosis; Biological Products; Drug Resistance, Neoplasm; Humans; Inflammation; Signal Transduction; Stomach Neoplasms; Tumor Microenvironment; apoptosis; chemoresistance; gastric cancer; inflammation; natural products; phytochemicals; tumor microenvironment
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Natural products have emerged as promising multi-target agents for addressing the complex biology of gastric cancer, a malignancy characterized by marked molecular heterogeneity, late clinical presentation, and frequent resistance to systemic therapies. This narrative synthesis integrates primarily preclinical evidence, with emerging clinical data, on how naturally derived compounds modulate three central molecular processes that drive gastric tumor progression and therapeutic failure: evasion of programmed cell death, persistent tumor-promoting inflammation, and chemoresistance. Compounds such as curcumin, resveratrol, berberine, ginsenosides, quercetin, and epigallocatechin gallate restore apoptotic competence by shifting the balance between pro-survival and pro-death proteins, destabilizing mitochondrial membranes, promoting cytochrome c release, and activating caspase-dependent pathways. These agents also exert potent anti-inflammatory effects by inhibiting nuclear factor kappa B and signal transducer and activator of transcription signaling, suppressing pro-inflammatory cytokine production, reducing cyclooxygenase activity, and modulating the tumor microenvironment through changes in immune cell behavior. In parallel, multiple natural compounds function as chemo-sensitizers by inhibiting drug efflux transporters, reversing epithelial-mesenchymal transition, attenuating cancer stem cell-associated traits, and suppressing pro-survival signaling pathways that sustain resistance. Collectively, these mechanistic actions highlight the capacity of natural products to simultaneously target interconnected hallmarks of gastric cancer biology. Ongoing advances in formulation strategies may help overcome pharmacokinetic limitations; however, rigorous biomarker-guided studies and well-designed clinical trials remain essential to define the translational relevance of these compounds.

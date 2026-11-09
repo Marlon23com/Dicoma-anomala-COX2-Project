@@ -1,0 +1,17 @@
+Title: Boric acid and quercetin supplementations alleviated paraquat-induced neurotoxic and irritation effects in human SH-SY5Y cells and in ovo models.
+
+Authors: Güner, Adem; Tekin, Aşkın
+
+Year: 2025
+
+PMID: 41327307
+
+Keywords/MeSH: Animals; Antioxidants; Apoptosis; Boric Acids; Boric acid; Cell Line, Tumor; Chick Embryo; Chorioallantoic Membrane; Herbicides; Humans; Inflammation; Membrane Potential, Mitochondrial; Neuroprotective Agents; Neurotoxicity; Oxidative Stress; Oxidative stress; Paraquat; Quercetin; Reactive Oxygen Species
+
+Publication Types: Journal Article
+
+Abstract:
+Paraquat (PQ) is a herbicide that causes neurotoxicity through oxidative stress, mitochondrial dysfunction and apoptosis. Boric acid (BA) and quercetin (Qe) are bioactive compounds with antioxidant and anti-inflammatory properties, but their combined effect against PQ-induced neuronal damage is still unexplored. This study aimed to investigate the individual and synergistic protective effects of BA and Qe in SH-SY5Y neuroblastoma cells and in ovo models.
+Human SH-SY5Y neuroblastoma cells were exposed to PQ (400 µM) with or without BA (50 µM), Qe (50 µM) or their combination for 48 h. ROS production, mitochondrial membrane potential (MMP, ΔΨm) and intracellular calcium levels (Ca²⁺) were measured. Apoptotic (BAX, BCL2, Casp-3) and inflammatory (NFKB, VEGF, TNF, TRAF1) gene expression and DNA fragmentation were determined by qRT-PCR and DPA assay. NRF2 activation was determined by gene expression. In parallel, irritation and vascularization were evaluated using the hen's egg chorioallantoic membrane (HET-CAM) assay after exposure to PQ, BA, Qe and their combinations.
+PQ significantly increased ROS, interfered with MMP, increased Ca²⁺ levels, regulated pro-apoptotic and inflammatory genes, and induced DNA fragmentation. BA or Qe alone reduced oxidative stress, partially restored ΔΨm and Ca²⁺ homeostasis, downregulated BAX and Casp-3, and increased BCL2 expression. The combined treatment with BA + Qe showed the strongest protection by significantly reducing ROS, restoring ΔΨm and Ca²⁺ homeostasis, suppressing inflammatory genes, enhancing NRF2 activation and minimizing DNA fragmentation, indicating synergistic antioxidant and anti-apoptotic effects. In the HET-CAM assay, PQ induced hemorrhage, lysis, and severe irritation with an IS of 9.1 ± 0.2, whereas BA, Qe, and BA + Qe alone showed no irritation. Co-treatments (BA + PQ and Qe + PQ) caused moderate irritation (IS 6.2 ± 0.1 and 6.0 ± 0.2, respectively), while the combined treatment with BA + Qe + PQ markedly alleviated irritation, showing only mild effects (IS 4.1 ± 0.2).
+BA and Qe, particularly in combination, protect neuronal cells from PQ-induced oxidative and mitochondrial damage by restoring redox balance, stabilizing mitochondria, regulating Ca²⁺ homeostasis and modulating apoptosis and attenuating irritation in the in ovo model. These results suggest that BA and Qe may be promising complementary therapeutics to attenuate neurotoxicity caused by environmental toxins.

@@ -1,0 +1,14 @@
+Title: Quercetin as a Novel Antidepressant: Mechanistic Insights into Its Neuroprotective and Anti-inflammatory Effects.
+
+Authors: Fan, Xuyuan; Wang, Zhe; Sun, Lei; Qin, Ye; Liu, Yuan; Wu, Shusheng; Du, Longfei
+
+Year: 2025
+
+PMID: 41276725
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Antidepressive Agents; Depression; ER stress; Endoplasmic Reticulum Stress; Gut microbiota; HSP90 Heat-Shock Proteins; Hippocampus; Male; Metabolomics; Mice; Mice, Inbred C57BL; Neuroinflammation; Neuroprotective Agents; Nitric Oxide Synthase Type II; Quercetin; Stress, Psychological; X-Box Binding Protein 1
+
+Publication Types: Journal Article
+
+Abstract:
+Depression is a globally recognized leading cause of mental health disability and mortality worldwide, severely affecting individuals' daily lives and relationships. At present, the limitation of first-line antidepressants has brought great difficulties to the treatment of depression. Therefore, the development of new antidepressants is imminent. Quercetin is considered as a potential antidepressant drug due to its potent anti-inflammatory, antioxidant, and neuroprotective effects. We explored the antidepressant effect of quercetin by establishing a mouse model (Adult male C57BL/6 J mice) of depression induced by chronic unpredictable stress (CUS). Analysis of the antidepressant effect of quercetin was conducted using multi-omics. The sociability and the protein expression levels of Hsp90, XBP1 and iNOS in the hippocampus of mice were evaluated through behavioral and molecular biology experiments. We found that quercetin treatment alleviated social impairment in mice and could target Hsp90 to inhibit the upregulation of XBP1 and iNOS. In addition, based on microbiome as well as untargeted metabolomics results of hippocampal brain regions, quercetin was found to increase the abundance of Lactobacillus and modulate the levels of inosine, Creatinine, and Lithocholic acid metabolites in the hippocampus. To sum up, in the present study, we revealed the molecular mechanism of quercetin alleviating depression-like behavior in CUS mice by inhibiting CUS-induced endoplasmic reticulum stress, neuroinflammation, gut microbiota dysbiosis, and metabolic disorders through multi-omics joint analysis. This provides a complementary scientific explanation for the antidepressant effects of quercetin.

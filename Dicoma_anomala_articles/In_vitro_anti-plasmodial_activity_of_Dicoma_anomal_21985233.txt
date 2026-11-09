@@ -1,0 +1,17 @@
+Title: In vitro anti-plasmodial activity of Dicoma anomala subsp. gerrardii (Asteraceae): identification of its main active constituent, structure-activity relationship studies and gene expression profiling.
+
+Authors: Becker, John V W; van der Merwe, Marina M; van Brummelen, Anna C; Pillay, Pamisha; Crampton, Bridget G; Mmutlane, Edwin M; Parkinson, Chris; van Heerden, Fanie R; Crouch, Neil R; Smith, Peter J; Mancama, Dalu T; Maharaj, Vinesh J
+
+Year: 2011
+
+PMID: 21985233
+
+Keywords/MeSH: Antimalarials; Asteraceae; Chemical Fractionation; Chromatography; Crystallography, X-Ray; Gene Expression Profiling; Gene Expression Regulation; Humans; Magnetic Resonance Spectroscopy; Mass Spectrometry; Microarray Analysis; Plant Extracts; Plasmodium falciparum; Sesquiterpenes; South Africa; Structure-Activity Relationship
+
+Publication Types: Journal Article, Research Support, Non-U.S. Gov't
+
+Abstract:
+Anti-malarial drug resistance threatens to undermine efforts to eliminate this deadly disease. The resulting omnipresent requirement for drugs with novel modes of action prompted a national consortium initiative to discover new anti-plasmodial agents from South African medicinal plants. One of the plants selected for investigation was Dicoma anomala subsp. gerrardii, based on its ethnomedicinal profile.
+Standard phytochemical analysis techniques, including solvent-solvent extraction, thin-layer- and column chromatography, were used to isolate the main active constituent of Dicoma anomala subsp. gerrardii. The crystallized pure compound was identified using nuclear magnetic resonance spectroscopy, mass spectrometry and X-ray crystallography. The compound was tested in vitro on Plasmodium falciparum cultures using the parasite lactate dehydrogenase (pLDH) assay and was found to have anti-malarial activity. To determine the functional groups responsible for the activity, a small collection of synthetic analogues was generated - the aim being to vary features proposed as likely to be related to the anti-malarial activity and to quantify the effect of the modifications in vitro using the pLDH assay. The effects of the pure compound on the P. falciparum transcriptome were subsequently investigated by treating ring-stage parasites (alongside untreated controls), followed by oligonucleotide microarray- and data analysis.
+The main active constituent was identified as dehydrobrachylaenolide, a eudesmanolide-type sesquiterpene lactone. The compound demonstrated an in vitro IC50 of 1.865 μM against a chloroquine-sensitive strain (D10) of P. falciparum. Synthetic analogues of the compound confirmed an absolute requirement that the α-methylene lactone be present in the eudesmanolide before significant anti-malarial activity was observed. This feature is absent in the artemisinins and suggests a different mode of action. Microarray data analysis identified 572 unique genes that were differentially expressed as a result of the treatment and gene ontology analysis identified various biological processes and molecular functions that were significantly affected. Comparison of the dehydrobrachylaenolide treatment transcriptional dataset with a published artesunate (also a sesquiterpene lactone) dataset revealed little overlap. These results strengthen the notion that the isolated compound and the artemisinins have differentiated modes of action.
+The novel mode of action of dehydrobrachylaenolide, detected during these studies, will play an ongoing role in advancing anti-plasmodial drug discovery efforts.

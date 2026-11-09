@@ -1,0 +1,14 @@
+Title: LC-HESI-MS/MS Profiling and Evaluation of Antioxidant, Anti-Inflammatory, Anti-α-Amylase, and Anti-Acetylcholinesterase Activities of Rhus tripartitum L. Leaf Extract: In Vitro and In Silico Studies.
+
+Authors: Ameur, Raoudha Ben; Rekik, Imen; Hamdaoui, Nourhène; Soltani, Siwar; Téné, Nathan; Treilhou, Michel; Saoudi, Mongi; Allouche, Noureddine
+
+Year: 2026
+
+PMID: 41859961
+
+Keywords/MeSH: Acetylcholinesterase; Animals; Anti-Inflammatory Agents; Antioxidants; Biphenyl Compounds; Cholinesterase Inhibitors; Chromatography, Liquid; Molecular Docking Simulation; Molecular Structure; Picrates; Plant Extracts; Plant Leaves; R. tripartitum leaves; Structure-Activity Relationship; Tandem Mass Spectrometry; alpha-Amylases; molecular docking; pharmacokinetics; pharmacological activities
+
+Publication Types: Journal Article
+
+Abstract:
+This study aims to assess the biological characteristics of Rhus tripartitum leaves and identify their promising biomolecules. The numerous extracts of R. tripartitum leaves were evaluated, in vitro, for their phytochemical profile and antioxidant, anti-acetylcholinesterase, α-amylase, and anti-inflammatory activities. The methanolic and ethyl acetate extracts showed the highest levels of phenolics, flavonoids, and tannins, and exhibited the strongest antioxidant effects in DPPH, FRAP, and TAC assays. Regarding the ethyl acetate extract, it demonstrated the greatest in vitro enzyme inhibitory activity against acetylcholinesterase (IC

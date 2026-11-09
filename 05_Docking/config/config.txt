@@ -1,0 +1,17 @@
+receptor = 03_Protein/prepared_pdbqt/5KIR_prepared.pdbqt
+ligand_folder = 02_Ligands/raw_sdf/prepared_pdbqt
+out_folder = 05_Docking/results
+
+# Center of the grid box (Angstroms) - Centered on the COX-2 active site
+center_x = 22.5
+center_y = 1.0
+center_z = 36.5
+
+# Size of the grid box (Angstroms) - Large enough to cover the pocket
+size_x = 25
+size_y = 25
+size_z = 25
+
+exhaustiveness = 400
+num_modes = 10
+energy_range = 4.0

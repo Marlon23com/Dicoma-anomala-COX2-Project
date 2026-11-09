@@ -1,0 +1,18 @@
+Title: Therapeutic effects of Pistacia terebinthus L. (Terebinth) fruit on ulcerative colitis: In vitro antioxidant and anti-inflammatory activities, in vivo histopathological-biochemical evaluation, and LC-HR/MS-based phenolic profiling.
+
+Authors: Yıldırım, Aybeniz; Bağcı, Hatice; Alkaç, Zeliha Keskin; Korkak, Fatih Ahmet; Karataş, Pervin
+
+Year: 2026
+
+PMID: 41730401
+
+Keywords/MeSH: Acetic Acid; Animals; Anti-Inflammatory Agents; Anti-inflammatory; Antioxidants; Chromatography, Liquid; Colitis, Ulcerative; Colon; Cytokines; Disease Models, Animal; Fruit; Male; Oxidative Stress; Phenolics; Phenols; Pistacia; Pistacia terebinthus; Plant Extracts; Rats; Rats, Wistar; Ulcerative colitis
+
+Publication Types: Journal Article
+
+Abstract:
+Pistacia terebinthus L., traditionally used in Mediterranean and Middle Eastern folk medicine for treating inflammatory and gastrointestinal disorders, has attracted increasing scientific interest. However, its potential protective role and mechanisms in ulcerative colitis have not been fully elucidated.
+To evaluate the antioxidant and anti-inflammatory effects of P. terebinthus L. fruit extracts in an experimental model of ulcerative colitis and to characterize its active phytochemical constituents using LC-HRMS analysis.
+In vivo, an acetic acid-induced ulcerative colitis model was established in rats, which were divided into five groups: control, colitis, PTE100 (100 mg/kg), PTE200 (200 mg/kg), and sulfasalazine (100 mg/kg). Treatments were administered orally for seven days. Macroscopic evaluation, histopathological examination, and the assessment of pro-inflammatory cytokines (IL-1β, TNF-α, IL-6) and oxidative stress markers (MDA, GSH, SOD) were performed. In vitro assays assessed the DPPH and ABTS radical scavenging activities and 5-lipoxygenase inhibition of the extracts and fractions. Active compounds of the extract were determined by LC-HRMS.
+The acetic acid-induced colitis group exhibited marked mucosal erosion, epithelial degeneration, and significant increases in inflammatory cytokines (IL-1β, TNF-α, IL-6) and lipid peroxidation levels, accompanied by depletion of endogenous antioxidants (GSH, SOD). Treatment with P. terebinthus extract significantly ameliorated these pathological changes. The extract reduced edema and inflammatory cell infiltration, restored epithelial integrity, and normalized oxidative and inflammatory parameters. The in vitro assays confirmed the strong radical scavenging and 5-LOX inhibitory potential of the extract, supporting its observed biological effects in vivo. LC-HRMS analysis of the ethyl acetate fraction identified syringic acid, luteolin, gallic acid, ethyl gallate, ellagic acid, and isoquercitrin as major phenolics.
+P. terebinthus fruit extract exerted dose-dependent protective and therapeutic effects against acetic acid-induced ulcerative colitis by modulating inflammatory mediators and oxidative stress. These findings support its potential as a natural therapeutic candidate for managing inflammatory bowel diseases.

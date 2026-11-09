@@ -1,0 +1,14 @@
+Title: Exploration of network-based, machine learning, MD simulations, and MM/GBSA approaches revealed luteolin from Gynura procumbens as key inhibitor of MMP9 in NSCLC.
+
+Authors: Shao, Mingwen; Majeed, Raghad Ayad; Khan, Najeeb Ullah; Lai, Jing
+
+Year: 2026
+
+PMID: 41854859
+
+Keywords/MeSH: Gynura procumbens; Luteolin; MMGBSA; Machine learning; Molecular dynamics simulations; Non-small-cell lung cancer
+
+Publication Types: Journal Article
+
+Abstract:
+The primary leading reason for cancer death is non-small-cell lung cancer (NSCLC) still up to date globally. Even with today's advanced technology, it has very limited successful treatment options and very low survival rates. The intricate molecular pathogenesis of NSCLC, involving the dysregulation of PI3K-AKT and EGFR biological pathways, requires novel multi-targeted approaches. A medicinal plant rich in phytochemicals, Gynura procumbens, has emerged as a potential candidate to be explored for NSCLC, named Gynura procumbens. This plant has anticancer, antioxidant, and anti-inflammatory properties. To distinguish and discover the computational potential of G. procumbens' therapeutic potential against NSCLC, this study combines traditional network pharmacology (NP) with machine learning and molecular dynamic (MD) simulations. Using drug-likeness and pharmacokinetic properties as screening criteria, 16 lead compounds were identified, including luteolin, vanillic acid, and methyl gallate, with robust safety profiles. A total of 263 overlapping genes were identified after overlap of NSCLC-G. procumbens-related targets. As revealed by functional enrichment analysis, these targets are involved in apoptosis, signal transduction, and PI3K-AKT signaling. Machine learning (ML) identified the top genes as CASP3, MMP9, and SRC. Luteolin was validated as a predicted multi-target agent by showing  strong binding affinities (-7.2, -10.7, and -8.5 kcal/mol) with CASP3, MMP9, and SRC, with stable hydrogen bonds, respectively. MD simulations and MMGBSA validated the docking study results of luteolin with the key MMP9 target, and it was observed that RMSD, RMSF, and a pattern of hydrogen bonds make luteolin a promising agent for further experimental investigation against NSCLC. These findings demonstrate luteolin's ability to disrupt key NSCLC pathways, offering a promising avenue for combating tumor progression and drug resistance. Future experimental validation could establish its role in personalized cancer therapy and address the unmet clinical needs of NSCLC patients.

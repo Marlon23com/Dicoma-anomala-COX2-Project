@@ -1,0 +1,14 @@
+Title: A natural defense against particulate matter 10 (PM10): Network pharmacology-based insights into the protective effects of Chrysanthemum zawadskii var. latilobum against PM10-induced lung inflammation.
+
+Authors: Jo, Hyun Sun; Hwang, Jinhee; Kim, Min Jae; Jeong, Jong Hwi; Choi, Jae Mun; Hong, Ji Youn; Kim, Young Jun; Han, Bok Kyung
+
+Year: 2026
+
+PMID: 41985279
+
+Keywords/MeSH: Chrysanthemum zawadskii; In silico; Lung inflammation; Network pharmacology; Particulate matter 10 (PM10)
+
+Publication Types: Journal Article
+
+Abstract:
+Airborne particulate matter 10 (PM10) induces lung inflammation. However, interventions remain limited. We evaluated the protective effects of Chrysanthemum zawadskii var. latilobum (CZL) against PM10-induced lung injury using an integrated strategy combining phytochemical profiling, network pharmacology, deep-learning molecular docking, and in vivo/in vitro validation. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) profiling identified 52 phytochemicals in the 50% ethanol CZL extract. The network pharmacology analyses converged on the PI3K-AKT and mitogen-activated protein kinase (MAPK) signaling pathways. Molecular docking predicted strong binding affinities (ΔG ≤ -7 kcal/mol) for flavonoids such as luteolin, quercetin, apigenin, and eupatilin toward PIK3CA, AKT1, and MAPK1/3. Our PM10-induced lung inflammation model systems validated that CZL reduced PM10-induced phosphorylation of AKT and ERK, thereby dampening downstream cytokine expression, including tumor necrosis factor (TNF)-α, interleukin (IL)-1β, and IL-6. Collectively, CZL exerts anti-inflammatory effects in pollution-related lung injury and suggest its potential as a functional food candidate for improving respiratory health.

@@ -1,0 +1,16 @@
+Title: Chromatographic analysis of
+
+Authors: Dogrul, Bekir Nihat; Kiliccalan, Ibrahim; Asci, Ekrem Samet
+
+Year: 2026
+
+PMID: 41855569
+
+Keywords/MeSH: Crataegus azarolus; GC–MS; Hawthorn; mental health; psychiatry
+
+Publication Types: Journal Article
+
+Abstract:
+Methanolic extracts of dried flowers, leaves, and berries were analyzed by gas chromatography-mass spectrometry (GC-MS), with compounds identified using reference libraries. Ion chromatography (IC) with anion and cation columns was used to quantify inorganic ions, expressed as mg per 100 g dried material.
+GC-MS tentatively identified 13 major compounds, including flavonoids, fatty acids, sterols, vitamin D derivatives, and digitoxin. Many of these constituents have been suggested having anti-inflammatory, antioxidant, anxiolytic, and antidepressant-like activities in preclinical studies. Among the compounds, the flavonoids quercetin and lucenin-2 were particularly notable due to their proposed roles in central nervous system function, neuroprotection and possible psychiatric effects. IC analysis additionally revealed the presence of various inorganic ions, although their overall concentrations were low.
+The biochemical complexity of 

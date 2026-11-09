@@ -1,0 +1,14 @@
+Title: Mechanistic insights into diclofenac-induced acute kidney injury and its antagonists identification.
+
+Authors: Zhao, Fangli; Zhou, Xiaoxia; Chen, Junyi; Li, Ruihua; Sun, Yan; Zhou, Jingyi; Li, Hailun; Zheng, Guangzhen; Zhu, Lihong
+
+Year: 2026
+
+PMID: 41354120
+
+Keywords/MeSH: Acute Kidney Injury; Acute kidney injury; Antagonists; Anti-Inflammatory Agents, Non-Steroidal; Cell Line; Diclofenac; Humans; Key proteins; Mechanism; Molecular Docking Simulation; Molecular Dynamics Simulation; Proto-Oncogene Proteins c-akt; Quercetin
+
+Publication Types: Journal Article
+
+Abstract:
+This study aimed to reveal the key proteins and specific mechanisms of diclofenac-induced acute kidney injury (AKI) and to explore its potential antagonists based on a comprehensive technology of network toxicology, computer-aided virtual screening (including molecular docking and molecular dynamics simulations), and experimental validation. First, diclofenac was demonstrated to exhibit toxicity primarily associated with nephrotoxicity by ADMETlab 3.0. Afterwards, network toxicology approaches identified 25 core targets associated with diclofenac-induced AKI, such as CTSB, ALB, and AKT1. GO analysis showed a significant enrichment in biological processes, such as mitochondria and enzyme binding, while KEGG pathway analysis indicated that endocrine resistance played a critical role. Subsequently, computer-aided virtual screening identified that quercetin, a widely distributed dietary compound, may have potential as an antagonist pending further validation. Subsequent experimental validation in HK-2 cells demonstrated that quercetin not only improved the secretion of inflammatory cytokines in diclofenac-induced HK-2 cells but also reversed the abnormal expression of core proteins. Correlation analysis further validated the close relationship between these protective effects. In conclusion, diclofenac may induce AKI through a network of core targets such as CTSB, ALB, and AKT1, and natural active compounds such as quercetin represented promising antagonists for mitigating this drug-induced nephrotoxicity.

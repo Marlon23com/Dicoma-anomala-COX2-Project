@@ -1,0 +1,18 @@
+Title: Inhibition of Fenton Reaction-driven Lipid Peroxidation and Anti-inflammatory Activity of Extracts from Roots of Debregeasia Longifolia.
+
+Authors: Alam, Faruk; Judder, Moidul Islam; Barman, Sumi; Islam, Md Moidul; Islam, Mohidul; Adhikari, Atul; Bezbaruah, Sarbanga
+
+Year: 2026
+
+PMID: 41968798
+
+Keywords/MeSH: Debregeasia longifolia; anti-inflammatory.; antioxidant activity; extraction; quantitative analysis
+
+Publication Types: Journal Article
+
+Abstract:
+Debregeasia longifolia has been used traditionally in treating inflammatory and oxidative stress-associated disorders, but the potential of this herb in redox modulation has not been fully defined. Lipid peroxidation in biological substrates sensitive to oxygen acts as a good biomarker to determine antioxidant potential. The objective of this paper was to assess the antioxidant and anti-inflammatory properties of D. longifolia root extracts and to determine the connection between those properties and the levels of polyphenols and flavonoids.
+The roots of D. longifolia that were collected in Meghalaya, India, were authentic and extracted sequentially with increased polarity of the solvents. The antioxidant activity was determined by the inhibition of lipid peroxidation of brain lipid substrates by the Fe2+/H2O2 (Fenton reaction)- induced lipid peroxidation through the TBARS technique. Anti-inflammatory activity was assessed through carrageenan-induced swelling of paws in rats and protein denaturation inhibition. The polyphenols and flavonoids were totaled, and correlation analysis was conducted.
+The lipid peroxidation inhibition of the ethanol extract was the highest (49.55%) and followed by the hydroalcoholic extract (45.17%). Antioxidant activity had strong positive relations with polyphenol (r = 0.9784) and flavonoid (r = 0.9624) contents. Extracts at 250 mg/kg were both found to be effective in reducing carrageenan-induced paw edema and as effective as indomethacin. Phytochemical analysis was performed, identifying compounds such as 2-propylphenol, quercetin glycosides, and atrazine-desethyl.
+The ability to exert strong antioxidant and anti-inflammatory effects is probably due to the high content of polyphenols and flavonoids, which could be mediated by COX-2 and 5-LOX inhibitors.
+This paper confirms the traditional application of D. longifolia and demonstrates ethanolic root extracts as potential natural antioxidants and anti-inflammatory agents with therapeutic benefits.

@@ -1,0 +1,14 @@
+Title: Comparative Analysis of Red Onion-Derived Exosome-Like Nanovesicles and Extract Reveals Sustained Immunomodulatory Effects in LPS/IFN-γ-Stimulated Microglia.
+
+Authors: Alhelwani, Sedra; Degirmenci, Nurdan Sena; Altıntaş, Cihan Mehmet; Aydın, Mehtap; Şahin, Fikrettin; Şenel, Mehmet; Işık, Sevim
+
+Year: 2026
+
+PMID: 41910688
+
+Keywords/MeSH: Cell Line; Exosomes; Extract; Humans; Immunologic Factors; Lipopolysaccharides; Microglia; NLRP3 Inflammasome; Neuroinflammation; Onions; Phyto-nanotechnology; Plant Extracts; Red onion–derived exosome-like nanovesicles
+
+Publication Types: Journal Article, Comparative Study
+
+Abstract:
+Neuroinflammation is a central factor in many neurodegenerative diseases, making it an important target for novel treatments. This study compares the effects of organic red onion-derived materials, particularly crude extract and exosome-like nanovesicles (RO-ELNs), on neuroinflammation in the human microglia HMC3 cell line. Red onions are abundant in neuroprotective phytochemicals, primarily quercetin and anthocyanin constituents. The non-cytotoxic RO-ELNs purified through ultracentrifugation, along with their corresponding ethanolic extract, showed that they contain inherited phytopharmaceutical compounds from their parent source. Despite RO-ELNs having lower metabolite concentrations relative to the extract, their therapeutic value is mostly attributed to their lipids and other components. Both treatments engage similar biological pathways yet demonstrate contrasting time-dependent anti-neuroinflammatory and antioxidant effects by suppressing NLRP3 inflammasome components (NLRP3, IL-1β) and critical inflammatory markers (COX-2, phospho-NF-κB, ROS, IL-6, TNF-α) during acute inflammation. Nevertheless, the extract showed restricted effectiveness in prolonged inflammation or at longer incubation times owing to its poor bioavailability. Conversely, RO-ELNs showed a robust and lasting effect due to their lipid bilayer, facilitating gradual uptake and extended retention within target microglia, with uptake escalating from 20 to 70% over 24 to 72 h compared to control. This study uniquely investigates the time-dependent anti-inflammatory and antioxidant actions of red onion-derived ELNs and extract across acute and prolonged phases of neuroinflammation, suggesting RO-ELNs as a promising nanosized approach for neuroinflammation prevention.

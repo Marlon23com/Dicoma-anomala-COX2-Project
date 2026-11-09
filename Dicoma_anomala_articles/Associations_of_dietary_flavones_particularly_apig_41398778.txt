@@ -1,0 +1,14 @@
+Title: Associations of dietary flavones, particularly apigenin and luteolin, with phenotypic age acceleration: A cross-sectional study using NHANES data.
+
+Authors: Wang, Xiaoqiao; Liu, Chang; Li, Guixia; Tian, Shuyan; Peng, Wujian; Liu, Peijia
+
+Year: 2025
+
+PMID: 41398778
+
+Keywords/MeSH: Adult; Aged; Aging; Apigenin; Cross-Sectional Studies; Diet; Female; Flavones; Humans; Luteolin; Male; Middle Aged; NHANES; Nutrition Surveys; Phenotype; United States; apigenin; biological aging; epidemiology; flavone; luteolin; nutrition
+
+Publication Types: Journal Article
+
+Abstract:
+Specific flavone subclasses, particularly apigenin and luteolin, exhibit potent anti-aging properties mediated by their anti-inflammatory and antioxidant activities. However, epidemiological evidence relating these bioactive compounds to phenotypic age acceleration (PhenoAgeAccel) remains limited. We analyzed data from 10,789 US adults participating in the National Health and Nutrition Examination Survey 2007-2010 and 2017-2018 cycles. PhenoAgeAccel was calculated as the residuals from regressing phenotypic age (based on inflammatory and metabolic biomarkers) on chronological age, where positive values indicated accelerated aging. Intakes of total flavones, apigenin, and luteolin were quantified using 24-h dietary recalls. Weighted multivariable logistic regression models were used to assess associations between flavone intakes and PhenageAccel, with comprehensive adjustments for potential confounders. Restricted cubic spline models were employed to evaluate non-linear relationships. Higher total flavone intake was associated with a dose-dependent decrease in PhenoAgeAccel (P-trend < .001). In fully adjusted models, each log-unit increase (equivalent to 2.7-fold higher intake) in flavone intake corresponded to a 9.6% reduction in the odds of PhenoAgeAccel (odds ratio [OR] = 0.904, 95% confidence interval: 0.859-0.953). Similar inverse associations were observed for apigenin (Q4 vs Q1: OR = 0.647, P = .002) and luteolin (Q4 vs Q1: OR = 0.736, P = .011). Significant non-linear dose-response relationships were observed for all flavones (P-nonlinearity < 0.001). Subgroup analyses unveiled consistent associations across age, sex, and cardiometabolic status (all P-interaction > 0.05). In this nationally representative sample, higher dietary intakes of flavones, particularly apigenin and luteolin, were strongly associated with reduced PhenoAgeAccel. These findings suggest the potential role of flavones as modifiable dietary factors for healthy aging.

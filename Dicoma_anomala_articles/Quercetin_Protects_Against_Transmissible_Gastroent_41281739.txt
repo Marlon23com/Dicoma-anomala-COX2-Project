@@ -1,0 +1,14 @@
+Title: Quercetin Protects Against Transmissible Gastroenteritis Virus-Induced Intestinal Inflammation by Modulating Mitophagy-Driven Mitochondrial Dysfunction.
+
+Authors: Wang, Kang; He, Zhentao; Li, Yan; Yu, Bing; Luo, Yuheng; Mao, Xiangbing; Yan, Hui; Wu, Aimin; Luo, Junqiu; He, Jun
+
+Year: 2025
+
+PMID: 41281739
+
+Keywords/MeSH: Animals; Gastroenteritis, Transmissible, of Swine; Inflammation; Intestinal epithelial cells; Membrane Potential, Mitochondrial; Mitochondria; Mitochondrial dysfunction; Mitophagy; Quercetin; Reactive Oxygen Species; Signal Transduction; Swine; Transmissible gastroenteritis virus
+
+Publication Types: Journal Article
+
+Abstract:
+Transmissible gastroenteritis virus (TGEV), an enteropathogenic α-coronavirus, causes severe disruption of the intestinal epithelium and diarrhea in neonatal piglets. Despite growing evidence linking mitochondrial dysfunction to coronavirus-induced inflammation, the role of mitophagy-mediated mitochondrial regulation in TGEV pathogenesis remains largely unclear. Here, we conducted a screening of a series of natural plant compounds in TGEV-infected porcine intestinal epithelial cells and identified quercetin, a plant-derived flavonoid, as a potent antiviral candidate. Quercetin significantly alleviated TGEV-induced cytopathic effects and reduced viral load, without directly inactivating viral particles. Interestingly, TGEV infection triggered excessive activation of PINK1/Parkin-mediated mitophagy, leading to mitochondrial membrane potential loss, mitochondrial reactive oxygen species (mtROS) accumulation, and suppression of respiratory chain components, which subsequently activated the NF-κB and JAK/STAT signaling pathways. However, quercetin restored mitochondrial function by suppressing mitophagy overactivation, preserving mitochondrial membrane potential and mtDNA levels, and attenuating oxidative stress. Moreover, functional interference assays revealed that the anti-inflammatory efficacy of quercetin was dependent on its ability to maintain mitochondrial homeostasis and inhibit pathological mitophagic flux. These findings were validated in a TGEV-infected piglet model, where excessive mitophagy correlated closely with intestinal inflammation signaling activation. Collectively, our results not only indicated a novel mechanism of mitophagy-driven mitochondrial dysfunction in TGEV pathogenesis, but also suggested that quercetin may serve as a potential mitochondria-targeted natural compound for mitigating coronavirus-induced intestinal inflammation.

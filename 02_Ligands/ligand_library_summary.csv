@@ -1,0 +1,35 @@
+ligand	smiles	cid
+Rofecoxib	CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3	5090
+(-)-Epicatechin	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O	72276
+alpha humulene	C/C/1=C\\CC(/C=C/C/C(=C/CC1)/C)(C)C	5281520
+Apigenin	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O	5280443
+benzyl_benzoate	C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2	2345
+beta_Amyrin	C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]1CC(CC2)(C)C)C	73145
+alpha_farnesene	CC(=CCC/C(=C/C/C=C(\\C)/C=C)/C)C	5281516
+beta_sitosterol	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C	222284
+Caffeic_acid	C1=CC(=C(C=C1/C=C/C(=O)O)O)O	689043
+Caffeoylquinic_acid	C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	1794427
+Chlorogenic_acid	C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	1794427
+cirsilineol	COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O	162464
+Cirsimaritin	COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O)OC	188323
+Dehydrobrachylaenolide	C[C@@]12CC[C@@H]3[C@@H]([C@H]1C(=C)C(=O)C=C2)OC(=O)C3=C	404548
+Dicaffeoylquinic_acid	C1[C@H](C([C@@H](CC1(C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)OC(=O)/C=C/C3=CC(=C(C=C3)O)O)O	12358846
+Ferulic_acid	COC1=C(C=CC(=C1)/C=C/C(=O)O)O	445858
+heptacosane	CCCCCCCCCCCCCCCCCCCCCCCCCCC	11636
+hexadecane	CCCCCCCCCCCCCCCC	11006
+indole	C1=CC=C2C(=C1)C=CN2	798
+Kaempferol	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O	5280863
+Lupenone	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CCC(=O)C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)C)C	92158
+Lupeol	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C	259846
+Luteolin	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O	5280445
+oleamide	CCCCCCCCC=CCCCCCCCC(=O)NC(C)CO	71363004
+patented_sesquiterpene	C[C@@H]1C[C@@]2([C@@H](C2(C)C)[C@H]3[C@]1([C@@H]4C=C(C(=O)[C@]4(CC(=C3)COC(=O)C)O)C)O)OC(=O)CC5=CC=CC=C5	3034821
+pyrrolo12-apyrazine-14-dione hexahydro-3-2-methylpropyl-	CC(C)CC1C(=O)N2CCCC2C(=O)N1	102892
+Quercetin	 C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	5280343
+Scutellarein	C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O	5281697
+sesquiterpenes	CC(C)[C@H]1[C@@H](CC(=C)[C@@H]2[C@@H]1[C@@H](CC2)C(=O)C)O	139087999
+Stigmasterol	CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C	5280794
+succinimide	C1CC(=O)NC1=O	11439
+Taraxasterol	C[C@H]1[C@@H]2[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC[C@]2(CCC1=C)C)C)C)(C)C)O)C	115250
+triclosan	C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl	5564
+Vanillic_acid	COC1=C(C=CC(=C1)C(=O)O)O	8468

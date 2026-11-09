@@ -1,0 +1,18 @@
+Title: Hepatoprotective potential of Nypa fruticans leaves: Insights from integrated experimental and computational approaches.
+
+Authors: Islam, Farhana; Ahmad, Shoeb; Rodru, Fariya Islam; Hasan, Md Nazmul; Hasan Zilani, Md Nazmul; Kamal, Mostafa; Aktar, Asma
+
+Year: 2026
+
+PMID: 41722878
+
+Keywords/MeSH: Animals; Carbon Tetrachloride; Chemical and Drug Induced Liver Injury; Disease Models, Animal; Hepatoprotective; Histopathology; Liver; Liver Cirrhosis; Liver fibrosis; Male; Mice; Molecular Docking Simulation; Molecular Dynamics Simulation; Molecular dynamic simulation; Nypa fruticans; Plant Extracts; Plant Leaves; Protective Agents
+
+Publication Types: Journal Article
+
+Abstract:
+Nypa fruticans (NF) is traditionally used in Southeast Asia for the treatment of inflammatory and liver disorders. Its leaves contain phenolic and flavonoid compounds with antioxidant and anti-inflammatory properties; however, their hepatoprotective and antifibrotic potential remains insufficiently explored.
+This study assessed the hepatoprotective and antifibrotic effects of ethyl acetate and ethanol extracts of NF leaves in a CCl
+Male mice with CCl
+NF leaf extracts significantly reduced serum liver enzyme levels (ALT, AST, and ALP) and improved liver histology, with the strongest effects observed at 400 mg/kg, confirming their hepatoprotective and antifibrotic activities. Molecular docking revealed CID 72276 as having the highest binding affinity (-12.354 kcal/mol) for the TGF-β I receptor, whereas molecular dynamics simulation revealed quercetin (CID: 5280343) as the most stable ligand, with the lowest RMSD (1.42 Å) and RMSF (0.766 Å).
+Nypa fruticans leaf extracts demonstrated notable hepatoprotective and antifibrotic effects in a CCl

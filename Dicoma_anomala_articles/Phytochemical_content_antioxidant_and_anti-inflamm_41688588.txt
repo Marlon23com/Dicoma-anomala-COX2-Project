@@ -1,0 +1,14 @@
+Title: Phytochemical content, antioxidant and anti-inflammatory properties and wound healing effect of Chaiturus marrubiastrum: an in vitro and in vivo study.
+
+Authors: Bulut, Semih; Karakuyu, Nasif Fatih; Sarman, Emine; Sidal, Ayse; Kahraman, Ahmet; Yilmaz, Mustafa Abdullah; Cakir, Oguz
+
+Year: 2026
+
+PMID: 41688588
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Anti-inflammatory; Antioxidant; Antioxidants; Chaiturus marrubiastrum; Disease Models, Animal; LC-MS/MS; Male; Phytochemicals; Plant Components, Aerial; Plant Extracts; Plants, Medicinal; Pressure wounds; Rat; Rats; Rats, Wistar; Tandem Mass Spectrometry; Wound Healing; Wound healing
+
+Publication Types: Journal Article
+
+Abstract:
+Medicinal plants have been traditionally used to treat wounds. The aim of this study was to investigate the antioxidant activity, wound healing effect and chemical content of the aerial parts of Chaiturus marrubiastrum (L.) Ehrh. ex Rchb. Pressure wound model in rats was used to evaluate the wound healing effect of the extracts. The antioxidant activity of the extract was evaluated using total antioxidant capacity, reducing power, metal chelation, DPPH and ABTS scavenging tests. The chemical profile of the extract was evaluated by LC-MS/MS analysis. The extract had 83.50 ± 0.11% and 70.73 ± 1.30% inhibition in DPPH and ABTS scavenging tests, respectively. The metal chelation capacity of the extract increased with increasing concentration. The reducing power of the extract (at 2 mg/mL) was similar to that of quercetin (3.521 ± 0.07, 3.831 ± 0.03, respectively). The most abundant substance in the extract was rosmarinic acid (165.611 mg/g extract). In vivo experiments, wound healing occurred faster in the group treated with C. marrubiastrum extracts in pressure wounds created on rats compared to the control groups. Histopathological analyses showed that connective tissue development and vascularization increased and inflammation decreased in this group. In addition, immunohistochemical analyses have shown that C. marrubiastrum extract reduces TNF-α, VEGF and caspase-3 levels, thus inhibiting inflammation and apoptosis. These findings suggest that the wound healing-accelerating effects of C. marrubiastrum are based on strong antioxidant and anti-inflammatory properties. It is concluded that future studies should optimize this extract for clinical use and evaluate its efficacy in humans.

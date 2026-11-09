@@ -1,0 +1,17 @@
+Title: ShenQi DiHuang Decoction (SQDHD) Ameliorates Neuroinflammation and Neuropsychiatric Manifestations in Pristane Induced Lupus Mice via Blocking JAK1-STAT3 Pathway.
+
+Authors: Chen, Jie; Cui, Chumiao; Xu, Fei; Feng, Jiayan; Chen, Jingyu; Wang, Xueru; Yuan, Hui; Jin, Chenye; Li, Yutian; Yun, Yang
+
+Year: 2026
+
+PMID: 41795136
+
+Keywords/MeSH: Animals; Blood-Brain Barrier; Drugs, Chinese Herbal; Female; Janus Kinase 1; Janus kinase‐signal transducer and activator of transcription signaling pathway; Lupus Vasculitis, Central Nervous System; Male; Mice; Molecular Docking Simulation; Neuroinflammatory Diseases; STAT3 Transcription Factor; ShenQi DiHuang decoction; Signal Transduction; Terpenes; cerebrovascular endothelial cells; neuroinflammation; neuropsychiatric systemic lupus erythematosus; traditional Chinese medicine
+
+Publication Types: Journal Article
+
+Abstract:
+Neuroinflammation is widely acknowledged as a crucial pathogenic factor in neuropsychiatric systemic lupus erythematosus (NPSLE). However, specific clinical treatments to mitigate neuroinflammation associated with NPSLE are currently lacking. While ShenQi DiHuang decoction (SQDHD) has demonstrated significant anti-inflammatory effects in lupus nephritis, its efficacy in NPSLE has yet to be investigated. This study aims to explore the neuroprotective effects of SQDHD in NPSLE and to elucidate the underlying mechanisms.
+In vivo, the effects of SQDHD were studied in pristane-induced lupus (PIL) mice using behavioral tests, intravital microscopy, blood-brain barrier (BBB) permeability assessment, cytokine quantification, and brain histopathological analysis. The active compounds and the underlying mechanism of SQDHD action against NPSLE were examined using ultra performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS), network pharmacology, molecular docking, cellular thermal shift assays (CETSAs), and drug affinity responsive target stability (DARTS) assays. In vitro and in vivo experiments were performed to validate the proposed mechanism.
+SQDHD significantly ameliorated olfactory dysfunction, anxiety, and depression in PIL mice. Additionally, adhesion molecule upregulation, leukocyte recruitment, BBB leakage, and brain pathophysiological alterations, including cytokine overexpression, immunoglobulin G deposition, and lipofuscin accumulation were markedly reduced. By integrating UPLC-MS/MS, network pharmacology, and molecular docking, we predicted the therapeutic mechanism of SQDHD against NPSLE to involve Janus kinase-signal transducer and activator of transcription (JAK-STAT) signaling. Five primary active compounds of SQDHD, Alisol B acetate, Hederagenin, Ellagic acid, Wogonin, and Quercetin, exhibited strong binding affinities to JAK1 and other JAK-STAT pathway components, surpassing the binding affinities of Upadacitinib, a selective JAK1 inhibitor. CETSAs and DARTS assays confirmed the direct interactions between these compounds and JAK1. Alisol B acetate and Hederagenin inhibited the JAK1-STAT3 pathway and its downstream effectors in cerebrovascular endothelial cells (CVECs). In vitro studies in lupus serum-induced CVECs and in vivo studies in PIL mice further corroborated SQDHD downregulation of elevated levels of adhesion molecules, potentially through inhibition of JAK1-STAT3 signaling.
+SQDHD may exert neuroprotective effects in NPSLE by inhibiting the activation of CVECs through blocking the JAK1-STAT3 signaling pathway, thereby suggesting its potential as a promising therapeutic strategy for NPSLE.

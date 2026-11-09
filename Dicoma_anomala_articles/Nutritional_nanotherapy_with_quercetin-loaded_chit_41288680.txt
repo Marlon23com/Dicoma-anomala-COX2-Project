@@ -1,0 +1,14 @@
+Title: Nutritional nanotherapy with quercetin-loaded chitosan nanoparticles ameliorates imidacloprid-induced liver toxicity through antioxidant, anti-Inflammatory, and genoprotective mechanisms.
+
+Authors: Elmorsy, Ekramy M; Alqahtani, Nasser S; Alenezi, Yusef Muhana; Abbas, Mohamed F; Atta, Marwa M F; Aggour, Amal; Fawzy, Manal S; Elshopakey, Gehad E
+
+Year: 2026
+
+PMID: 41288680
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Antioxidant activity; Antioxidants; Chemical and Drug Induced Liver Injury; Chitosan; Chitosan nanoparticles; Hepatoprotection; Imidacloprid toxicity; Liver; Male; Molecular Docking Simulation; Nanoparticles; Neonicotinoids; Nitro Compounds; Oxidative Stress; Quercetin; Rats; Rats, Wistar
+
+Publication Types: Journal Article
+
+Abstract:
+This experiment aimed to determine whether quercetin encapsulated in chitosan nanoparticles (QU-CHNPs) offers greater hepatoprotection than free quercetin (QU) against Imidacloprid (IMD)-induced toxicity. Docking analyses demonstrated a strong binding affinity of QU to key proteins involved in antioxidant regulation, apoptotic pathways, and inflammatory signaling. Based on Docking prediction, sixty adult rats were evenly divided into six groups: control, QU (100 mg/kg BW), QU-CHNPs (100 mg/kg BW), IMD (90 mg/kg BW), and IMD combined with either QU or QU-CHNPs (100 mg/kg BW), administered orally for 20 consecutive days. IMD exposure significantly impaired body weight gain while increasing relative liver weight. Biochemically, IMD significantly decreased serum protein levels while significantly elevating hepatic enzyme activities, altering lipid profile parameters, and increasing glucose concentrations. Moreover, IMD intoxication suppressed key antioxidant enzymes, reduced glutathione levels, and elevated lipid peroxidation, with significant upregulation of pro-apoptotic genes (Bax and caspase-3) and concomitant downregulation of the anti-apoptotic gene Bcl-2. In parallel, inflammation-related genes, including NF-κB, COX-2, TNF-α, IL-6, and IL-1β, were upregulated. Moreover, IMD triggered DNA oxidative damage and fragmentation. Treatment with QU or QU-CHNPs notably mitigated the toxic effects of IMD in treated animals, with QU-CHNPs providing substantially greater hepatoprotection and outcomes that closely resembled those of normal controls. Collectively, these findings indicate that QU-CHNPs are more effective than crude QU in counteracting IMD-induced liver injury, an effect most likely linked to their superior stability, solubility, controlled release, bioavailability, and pleiotropic protective properties.

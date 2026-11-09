@@ -1,0 +1,14 @@
+Title: Immunomodulatory roles of quercetin in diabetic nephropathy: targeting inflammation, oxidative stress, and ferroptosis.
+
+Authors: Zheng, YaFeng; Ye, XiaoNa; Han, XingJun; Geng, Wei; Zhao, Longsheng; Meng, Dandan
+
+Year: 2025
+
+PMID: 41322311
+
+Keywords/MeSH: diabetic nephropathy; drug delivery; multi-target therapy; natural products; quercetin
+
+Publication Types: Journal Article, Review
+
+Abstract:
+Diabetic nephropathy (DN) is one of the most common and disabling chronic complications of diabetes, with a complex pathogenesis involving genetic susceptibility, inflammatory responses, oxidative stress, and other pathological processes. Current therapeutic approaches can partially control hyperglycemia and slow the decline of renal function, but remain insufficient to reverse established structural damage to the kidneys. This underscores the urgent need for novel, safe, and multi-targeted intervention strategies. In recent years, natural bioactive compounds have attracted considerable attention for their potential in preventing and treating chronic diseases. Quercetin, a natural flavonoid widely distributed in plants, exhibits multiple biological activities-including anti-inflammatory, antioxidant, anti-fibrotic, and cell death-modulating effects-and has shown significant promise in DN therapy. This review provides a comprehensive overview of the major pathogenic mechanisms of DN and recent advances in understanding the regulatory effects of quercetin on key pathological processes. We highlight its potential mechanisms of action, including suppression of inflammation and oxidative stress, inhibition of TGF-β1-mediated renal fibrosis, protection of podocyte function, and induction of ferroptosis, and discuss the possible synergistic interactions among these effects in modulating the DN disease network. In addition, we evaluate the current status and limitations of preclinical research on quercetin, and explore feasible strategies-such as nanoparticle-based delivery systems and structural modification-to enhance its bioavailability and tissue targeting. Finally, we propose future research directions for quercetin-based interventions in DN, aiming to provide a theoretical foundation and novel insights for its clinical translation.

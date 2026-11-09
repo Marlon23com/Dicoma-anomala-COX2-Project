@@ -1,0 +1,18 @@
+Title: Antioxidant and anti-inflammatory activities of aqueous extract of Centipeda minima.
+
+Authors: Huang, Shyh-Shyun; Chiu, Chuan-Sung; Lin, Tsung-Hui; Lee, Min-Min; Lee, Chao-Ying; Chang, Shu-Jen; Hou, Wen-Chi; Huang, Guan-Jhong; Deng, Jeng-Shyan
+
+Year: 2013
+
+PMID: 23506988
+
+Keywords/MeSH: Animals; Anti-Inflammatory Agents; Antioxidants; Asteraceae; Carrageenan; Catalase; Cell Line; Cell Survival; Cyclooxygenase 2; Edema; Glutathione Peroxidase; Interleukin-1beta; Male; Mice; Mice, Inbred ICR; Nitric Oxide; Nitric Oxide Synthase Type II; Phytotherapy; Plant Extracts; Superoxide Dismutase; Tumor Necrosis Factor-alpha
+
+Publication Types: Journal Article, Research Support, Non-U.S. Gov't
+
+Abstract:
+Centipeda minima (L.) is traditionally used in Chinese folk medicine for the treatments of rhinitis, sinusitis, relieving pain, reducing swelling, and treating cancer for a long history in Taiwan. However, there is no scientific evidence which supports the use in the literature.
+The aim of this study was to evaluate the antioxidant and anti-inflammatory activities of the aqueous extract of Centipeda minima (ACM).
+The following activities were investigated: antioxidant activities [2,2'-azino-bis (3-ethylbenzothiazoline-6-sulphonic acid) (ABTS), DPPH (1,1-diphenyl-2-picrylhydrazyl)], and anti-inflammatory [lipopolysaccharide (LPS) induced nitric oxide (NO) production in RAW264.7 macrophages and paw-edema induced by λ-carrageenan (Carr)]. We also investigated the anti-inflammatory mechanism of ACM via studies of the activities of catalase (CAT), superoxide dismutase (SOD), and glutathione peroxidase (GPx) and the levels of malondialdehyde (MDA) in the edema paw. Serum NO, tumor necrosis factor α (TNF-α), and interleukin-1β (IL-1β) were also measured in vivo. In HPLC analysis, the fingerprint chromatogram of ACM was established.
+ACM showed the highest TEAC and DPPH radical scavenging activities, respectively. ACM also had highest contents of polyphenol and flavonoid contents. We evaluated that ACM and the reference compound of protocatechualdehyde and caffeic acid decreased the LPS-induced NO production in RAW264.7 cells. Administration of ACM showed a concentration dependent inhibition on paw edema development after Carr treatment in mice. The anti-inflammatory effects of ACM could be via NO, TNF-α, and IL-1β suppressions and associated with the increase in the activities of antioxidant enzymes. Western blotting revealed that ACM decreased Carr-induced inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2) expressions.
+Anti-inflammatory mechanisms of ACM might be correlated to the decrease in the level of Malondialdehyde (MDA), iNOS, and COX-2 via increasing the activities of CAT, SOD, and GPx in the edema paw. Overall, the results showed that ACM demonstrated antioxidant and anti-inflammatory activity, which supports previous claims of the traditional use for inflammation and pain.
